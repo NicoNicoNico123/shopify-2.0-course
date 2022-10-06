@@ -2,8 +2,7 @@
 
 @font-face {
   font-family: 'Honeywell-Bold';
-  src: url('HoneywellSansWeb-Bold.woff') format('woff')
-       url('HoneywellSansWeb-Bold.svg') format('svg')
+  src: url('HoneywellSansWeb-Bold.svg') format('svg')
        url('HoneywellSansWeb-Bold.ttf') format('opentype');
 
 
