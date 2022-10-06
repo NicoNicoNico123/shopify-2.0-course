@@ -1,3 +1,19 @@
+/* customfont */
+@font-face {
+  font-family: 'Honeywell-Bold';
+  src: url('HoneywellSansWeb-Bold.woff') format('woof');
+}
+
+@font-face {
+  font-family: 'Honeywell-Book';
+  src: url('HoneywellSansWeb-Book.woff') format('woof');
+}
+
+@font-face {
+  font-family: 'Honeywell-Medium';
+  src: url('HoneywellSansWeb-Medium.woff') format('woof')
+       url('HoneywellSansWeb-Medium.woff2') format('woof2');
+}
 /* Color custom properties */
 
 :root,
