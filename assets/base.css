@@ -4,13 +4,11 @@
   font-family: 'Honeywell-Bold';
   src: url('HoneywellSansWeb-Bold.ttf') format('opentype');
 
-
 }
 
 @font-face {
   font-family: 'Honeywell-Medium';
-  src: url('HoneywellSansWeb-Medium.woff') format('woff')
-       url('HoneywellSansWeb-Medium.woff2') format('woff2');
+  src: url('HoneywellSansWeb-Medium.tff') format('opentype');
 }
 /* Color custom properties */
 
