@@ -45,13 +45,43 @@
             "row_content": "",
             "page": ""
           }
+        },
+        "27049f6c-45f1-4b45-bc68-ef8b761d922d": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Safety",
+            "icon": "clipboard",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1784dda9-a30c-49c7-b5c5-793109c34fb5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "clipboard",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "b94a66f5-74fa-49aa-bd78-c9e82c52864a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Shipping and Payment",
+            "icon": "clipboard",
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "template--16565017182436__6145e505-2605-45d2-af30-92415aceb300-1665105893fc96a82e-0",
         "template--16565017182436__6145e505-2605-45d2-af30-92415aceb300-1665105893fc96a82e-1",
         "template--16565017182436__6145e505-2605-45d2-af30-92415aceb300-1665105893fc96a82e-2",
-        "template--16565017182436__6145e505-2605-45d2-af30-92415aceb300-1665105893fc96a82e-3"
+        "template--16565017182436__6145e505-2605-45d2-af30-92415aceb300-1665105893fc96a82e-3",
+        "27049f6c-45f1-4b45-bc68-ef8b761d922d",
+        "1784dda9-a30c-49c7-b5c5-793109c34fb5",
+        "b94a66f5-74fa-49aa-bd78-c9e82c52864a"
       ],
       "settings": {
         "caption": "",
