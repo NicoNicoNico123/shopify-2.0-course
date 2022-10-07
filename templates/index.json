@@ -121,6 +121,94 @@
         "description": "Demo",
         "full_width": true,
         "color_scheme": "accent-2",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "c1672e2e-d0be-42f2-9d57-8459d566a32a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16560275685604__c1672e2e-d0be-42f2-9d57-8459d566a32a-1665119929ce0aa069-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "VC14 AEROMAX ELITE",
+            "heading_size": "h2"
+          }
+        },
+        "template--16560275685604__c1672e2e-d0be-42f2-9d57-8459d566a32a-1665119929ce0aa069-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Powerful Suction with Energy-Efficient Design<strong>.<\/strong>The Synchronized Digital Motor’s<strong> <\/strong>advanced technology helps optimize run time and combined with our innovative design helps generate <strong>Max Suction Power <\/strong>up to <strong>230 Air Watts<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16560275685604__c1672e2e-d0be-42f2-9d57-8459d566a32a-1665119929ce0aa069-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/products\/vc14"
+          }
+        }
+      },
+      "block_order": [
+        "template--16560275685604__c1672e2e-d0be-42f2-9d57-8459d566a32a-1665119929ce0aa069-0",
+        "template--16560275685604__c1672e2e-d0be-42f2-9d57-8459d566a32a-1665119929ce0aa069-1",
+        "template--16560275685604__c1672e2e-d0be-42f2-9d57-8459d566a32a-1665119929ce0aa069-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2_BD1_0077.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "39f7da60-7ca6-49e9-bb83-10c86a72bbef": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16560275685604__39f7da60-7ca6-49e9-bb83-10c86a72bbef-1665119929ce0aa069-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "FC20 ULTAMAX PRO",
+            "heading_size": "h2"
+          }
+        },
+        "template--16560275685604__39f7da60-7ca6-49e9-bb83-10c86a72bbef-1665119929ce0aa069-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The New Go-to-Standard in Upright<br\/>Hard Floor Power Cleaners<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16560275685604__39f7da60-7ca6-49e9-bb83-10c86a72bbef-1665119929ce0aa069-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16560275685604__39f7da60-7ca6-49e9-bb83-10c86a72bbef-1665119929ce0aa069-0",
+        "template--16560275685604__39f7da60-7ca6-49e9-bb83-10c86a72bbef-1665119929ce0aa069-1",
+        "template--16560275685604__39f7da60-7ca6-49e9-bb83-10c86a72bbef-1665119929ce0aa069-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BD1_0077.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -130,6 +218,8 @@
     "118fd374-1586-4eef-8b49-395697bcaf96",
     "rich_text",
     "featured_collection",
-    "video"
+    "video",
+    "c1672e2e-d0be-42f2-9d57-8459d566a32a",
+    "39f7da60-7ca6-49e9-bb83-10c86a72bbef"
   ]
 }
