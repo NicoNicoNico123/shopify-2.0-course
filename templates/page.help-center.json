@@ -23,7 +23,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Dasher Owner Tools",
-            "icon": "check_mark",
+            "icon": "clipboard",
             "row_content": "",
             "page": ""
           }
@@ -31,8 +31,8 @@
         "template--16565017182436__6145e505-2605-45d2-af30-92415aceb300-1665105893fc96a82e-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "Features & Technology",
+            "icon": "clipboard",
             "row_content": "",
             "page": ""
           }
@@ -40,8 +40,8 @@
         "template--16565017182436__6145e505-2605-45d2-af30-92415aceb300-1665105893fc96a82e-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "Battery & Battery Care",
+            "icon": "clipboard",
             "row_content": "",
             "page": ""
           }
