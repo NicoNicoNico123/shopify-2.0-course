@@ -333,6 +333,12 @@
     --alpha-button-background: 0;
   }
 
+  .banner--desktop-transparent .button--secondary:hover {
+    --color-button: 255, 255, 255;
+    --color-button-text: 255, 255, 255;
+    --alpha-button-background: 0;
+  }
+
   .banner--desktop-transparent .content-container:after {
     display: none;
   }

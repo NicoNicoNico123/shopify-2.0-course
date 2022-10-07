@@ -1,27 +1,27 @@
 {
   "sections": {
-    "a8c2bcb4-d8ad-458e-bdae-942073604210": {
+    "118fd374-1586-4eef-8b49-395697bcaf96": {
       "type": "slideshow",
       "blocks": {
-        "template--16560275685604__a8c2bcb4-d8ad-458e-bdae-942073604210-166504363470c326b0-0": {
+        "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-0": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/1.jpg",
-            "heading": "VC14 AEROMAX ELITE",
+            "heading": "Image slide",
             "heading_size": "h1",
-            "subheading": "Handheld with 10 attachments for better, easier cleaning.",
-            "button_label": "Learn More",
-            "link": "",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "shopify:\/\/collections\/frontpage",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": false,
-            "text_alignment": "left",
+            "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "accent-1",
-            "text_alignment_mobile": "left"
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
           }
         },
-        "template--16560275685604__a8c2bcb4-d8ad-458e-bdae-942073604210-166504363470c326b0-1": {
+        "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-1": {
           "type": "slide",
           "settings": {
             "heading": "Image slide",
@@ -40,17 +40,64 @@
         }
       },
       "block_order": [
-        "template--16560275685604__a8c2bcb4-d8ad-458e-bdae-942073604210-166504363470c326b0-0",
-        "template--16560275685604__a8c2bcb4-d8ad-458e-bdae-942073604210-166504363470c326b0-1"
+        "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-0",
+        "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-1"
       ],
       "settings": {
         "layout": "full_bleed",
-        "slide_height": "adapt_image",
+        "slide_height": "medium",
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
-        "show_text_below": true,
+        "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "rich_text": {
@@ -217,7 +264,8 @@
     }
   },
   "order": [
-    "a8c2bcb4-d8ad-458e-bdae-942073604210",
+    "118fd374-1586-4eef-8b49-395697bcaf96",
+    "image_banner",
     "rich_text",
     "featured_collection",
     "collage",
