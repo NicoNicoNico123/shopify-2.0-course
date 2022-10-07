@@ -11,7 +11,7 @@
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
-            "link": "shopify:\/\/collections\/frontpage",
+            "link": "shopify:\/\/products\/vc14",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": false,
@@ -29,7 +29,7 @@
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
-            "link": "",
+            "link": "shopify:\/\/products\/vc14",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": false,
@@ -38,11 +38,30 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "1a52abfc-64ee-4517-ab60-3a6ca2c39532": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/10_small_77b4a42b-7745-40a1-9bde-fa72b08e5f1e.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-0",
-        "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-1"
+        "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-1",
+        "1a52abfc-64ee-4517-ab60-3a6ca2c39532"
       ],
       "settings": {
         "layout": "full_bleed",
