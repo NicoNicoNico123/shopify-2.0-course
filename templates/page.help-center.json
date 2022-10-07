@@ -22,7 +22,7 @@
         "template--16565017182436__6145e505-2605-45d2-af30-92415aceb300-1665105893fc96a82e-1": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Dasher Owner Tools",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -57,10 +57,10 @@
         "caption": "",
         "heading": "",
         "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "none",
-        "color_scheme": "background-1",
-        "container_color_scheme": "background-2",
+        "heading_alignment": "left",
+        "layout": "row",
+        "color_scheme": "background-2",
+        "container_color_scheme": "accent-2",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
