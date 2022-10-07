@@ -182,14 +182,14 @@
         "template--16560275685604__39f7da60-7ca6-49e9-bb83-10c86a72bbef-1665119929ce0aa069-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The New Go-to-Standard in Upright<br\/>Hard Floor Power Cleaners<\/p>",
+            "text": "<p>The New Go-to-Standard in Upright Hard Floor Power Cleaners<\/p>",
             "text_style": "body"
           }
         },
         "template--16560275685604__39f7da60-7ca6-49e9-bb83-10c86a72bbef-1665119929ce0aa069-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Learn More",
             "button_link": ""
           }
         }
