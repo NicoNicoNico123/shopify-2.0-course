@@ -153,6 +153,7 @@
         "image-with-text-1"
       ],
       "settings": {
+        "image": "{{ product.metafields.custom.product_image1.value }}",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "text_first",
