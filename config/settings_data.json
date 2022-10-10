@@ -147,15 +147,15 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "heading": "Our Vaccums",
+              "menu": "main-menu"
             }
           },
           "footer-1": {
             "type": "link_list",
             "settings": {
-              "heading": "Info",
-              "menu": "footer"
+              "heading": "Support",
+              "menu": "support"
             }
           },
           "footer-2": {
