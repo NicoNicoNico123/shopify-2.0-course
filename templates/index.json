@@ -24,16 +24,16 @@
         "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3.jpg",
+            "image": "shopify:\/\/shop_images\/10_small_77b4a42b-7745-40a1-9bde-fa72b08e5f1e.jpg",
             "heading": "FC20 ULTAMAX PRO",
             "heading_size": "h1",
             "subheading": "The New Go-to-Standard in Upright Hard Floor Power Cleaners",
             "button_label": "LEARN MORE",
             "link": "shopify:\/\/products\/fc20",
             "button_style_secondary": false,
-            "box_align": "bottom-right",
+            "box_align": "bottom-left",
             "show_text_box": false,
-            "text_alignment": "right",
+            "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "accent-2",
             "text_alignment_mobile": "center"
