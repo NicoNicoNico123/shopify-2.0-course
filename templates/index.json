@@ -7,15 +7,15 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/1.jpg",
-            "heading": "VC14 AEROMAX ELITE",
+            "heading": "Image slide",
             "heading_size": "h1",
-            "subheading": "Handheld with ten attachments for better, easier cleaning.",
-            "button_label": "LEARN MORE",
-            "link": "shopify:\/\/products\/vc14",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "shopify:\/\/collections\/frontpage",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": false,
-            "text_alignment": "left",
+            "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
@@ -24,53 +24,80 @@
         "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/3.jpg",
-            "heading": "VC14 AEROMAX ELITE",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "shopify:\/\/products\/vc14",
-            "button_style_secondary": false,
-            "box_align": "bottom-right",
-            "show_text_box": false,
-            "text_alignment": "right",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "1a52abfc-64ee-4517-ab60-3a6ca2c39532": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/10_small_77b4a42b-7745-40a1-9bde-fa72b08e5f1e.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": false,
-            "text_alignment": "left",
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
+            "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
         "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-0",
-        "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-1",
-        "1a52abfc-64ee-4517-ab60-3a6ca2c39532"
+        "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-1"
       ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "medium",
-        "slider_visual": "dots",
-        "auto_rotate": true,
+        "slider_visual": "counter",
+        "auto_rotate": false,
         "change_slides_speed": 5,
-        "show_text_below": true,
+        "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "rich_text": {
@@ -130,104 +157,107 @@
         "padding_bottom": 36
       }
     },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "cover_image": "shopify:\/\/shop_images\/3.jpg",
-        "video_url": "https:\/\/youtu.be\/R3lYWixpFPY",
-        "description": "Demo",
-        "full_width": true,
-        "color_scheme": "accent-2",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "c1672e2e-d0be-42f2-9d57-8459d566a32a": {
-      "type": "image-with-text",
+    "collage": {
+      "type": "collage",
       "blocks": {
-        "template--16560275685604__c1672e2e-d0be-42f2-9d57-8459d566a32a-1665119929ce0aa069-0": {
-          "type": "heading",
+        "collection-0": {
+          "type": "collection",
           "settings": {
-            "heading": "VC14 AEROMAX ELITE",
-            "heading_size": "h2"
+            "collection": ""
           }
         },
-        "template--16560275685604__c1672e2e-d0be-42f2-9d57-8459d566a32a-1665119929ce0aa069-1": {
-          "type": "text",
+        "product": {
+          "type": "product",
           "settings": {
-            "text": "<p>Powerful Suction with Energy-Efficient Design<strong>.<\/strong>The Synchronized Digital Motor’s<strong> <\/strong>advanced technology helps optimize run time and combined with our innovative design helps generate <strong>Max Suction Power <\/strong>up to <strong>230 Air Watts<\/strong><\/p>",
-            "text_style": "body"
+            "product": "",
+            "second_image": false
           }
         },
-        "template--16560275685604__c1672e2e-d0be-42f2-9d57-8459d566a32a-1665119929ce0aa069-2": {
-          "type": "button",
+        "collection-1": {
+          "type": "collection",
           "settings": {
-            "button_label": "Learn More",
-            "button_link": "shopify:\/\/products\/vc14"
+            "collection": ""
           }
         }
       },
       "block_order": [
-        "template--16560275685604__c1672e2e-d0be-42f2-9d57-8459d566a32a-1665119929ce0aa069-0",
-        "template--16560275685604__c1672e2e-d0be-42f2-9d57-8459d566a32a-1665119929ce0aa069-1",
-        "template--16560275685604__c1672e2e-d0be-42f2-9d57-8459d566a32a-1665119929ce0aa069-2"
+        "collection-0",
+        "product",
+        "collection-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/2_BD1_0077.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "heading": "Multimedia collage",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "39f7da60-7ca6-49e9-bb83-10c86a72bbef": {
-      "type": "image-with-text",
+    "video": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
       "blocks": {
-        "template--16560275685604__39f7da60-7ca6-49e9-bb83-10c86a72bbef-1665119929ce0aa069-0": {
-          "type": "heading",
+        "column1": {
+          "type": "column",
           "settings": {
-            "heading": "FC20 ULTAMAX PRO",
-            "heading_size": "h2"
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "template--16560275685604__39f7da60-7ca6-49e9-bb83-10c86a72bbef-1665119929ce0aa069-1": {
-          "type": "text",
+        "column2": {
+          "type": "column",
           "settings": {
-            "text": "<p>The New Go-to-Standard in Upright Hard Floor Power Cleaners<\/p>",
-            "text_style": "body"
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "template--16560275685604__39f7da60-7ca6-49e9-bb83-10c86a72bbef-1665119929ce0aa069-2": {
-          "type": "button",
+        "column3": {
+          "type": "column",
           "settings": {
-            "button_label": "Learn More",
-            "button_link": ""
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "template--16560275685604__39f7da60-7ca6-49e9-bb83-10c86a72bbef-1665119929ce0aa069-0",
-        "template--16560275685604__39f7da60-7ca6-49e9-bb83-10c86a72bbef-1665119929ce0aa069-1",
-        "template--16560275685604__39f7da60-7ca6-49e9-bb83-10c86a72bbef-1665119929ce0aa069-2"
+        "column1",
+        "column2",
+        "column3"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BD1_0077.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -235,10 +265,11 @@
   },
   "order": [
     "118fd374-1586-4eef-8b49-395697bcaf96",
+    "image_banner",
     "rich_text",
     "featured_collection",
+    "collage",
     "video",
-    "c1672e2e-d0be-42f2-9d57-8459d566a32a",
-    "39f7da60-7ca6-49e9-bb83-10c86a72bbef"
+    "multicolumn"
   ]
 }
