@@ -7,35 +7,34 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/1.jpg",
-            "heading": "VC14 AEROMAX ELITE",
+            "heading": "Image slide",
             "heading_size": "h1",
-            "subheading": "Experience the Next-Level of superior suction with one of the highest air watts on              a stick vacuum",
-            "button_label": "EXPLORE MORE",
-            "link": "shopify:\/\/products\/vc14",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "shopify:\/\/collections\/frontpage",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": false,
-            "text_alignment": "left",
+            "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
+            "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
         },
         "template--16560294494436__118fd374-1586-4eef-8b49-395697bcaf96-1665048675e4d580ba-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/10_small_77b4a42b-7745-40a1-9bde-fa72b08e5f1e.jpg",
-            "heading": "FC20 ULTAMAX PRO",
+            "heading": "Image slide",
             "heading_size": "h1",
-            "subheading": "The New Go-to-Standard in Upright Hard Floor Power Cleaners",
-            "button_label": "LEARN MORE",
-            "link": "shopify:\/\/products\/fc20",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
             "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": false,
-            "text_alignment": "left",
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
+            "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
         }
@@ -48,10 +47,87 @@
         "layout": "full_bleed",
         "slide_height": "medium",
         "slider_visual": "counter",
-        "auto_rotate": true,
+        "auto_rotate": false,
         "change_slides_speed": 5,
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
       }
     },
     "featured_collection": {
@@ -81,59 +157,107 @@
         "padding_bottom": 36
       }
     },
-    "video": {
-      "type": "video",
+    "collage": {
+      "type": "collage",
+      "blocks": {
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "product": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "product",
+        "collection-1"
+      ],
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/18.jpg",
-        "video_url": "https:\/\/youtu.be\/R3lYWixpFPY",
-        "description": "",
-        "full_width": true,
+        "heading": "Multimedia collage",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "ff6064e9-240c-4943-92d5-2c37e9ba891c": {
-      "type": "image-with-text",
+    "video": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
       "blocks": {
-        "template--16560275685604__ff6064e9-240c-4943-92d5-2c37e9ba891c-1665377305da6dc63b-0": {
-          "type": "heading",
+        "column1": {
+          "type": "column",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "template--16560275685604__ff6064e9-240c-4943-92d5-2c37e9ba891c-1665377305da6dc63b-1": {
-          "type": "text",
-          "settings": {
+            "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "link_label": "",
+            "link": ""
           }
         },
-        "template--16560275685604__ff6064e9-240c-4943-92d5-2c37e9ba891c-1665377305da6dc63b-2": {
-          "type": "button",
+        "column2": {
+          "type": "column",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "template--16560275685604__ff6064e9-240c-4943-92d5-2c37e9ba891c-1665377305da6dc63b-0",
-        "template--16560275685604__ff6064e9-240c-4943-92d5-2c37e9ba891c-1665377305da6dc63b-1",
-        "template--16560275685604__ff6064e9-240c-4943-92d5-2c37e9ba891c-1665377305da6dc63b-2"
+        "column1",
+        "column2",
+        "column3"
       ],
       "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -141,8 +265,11 @@
   },
   "order": [
     "118fd374-1586-4eef-8b49-395697bcaf96",
+    "image_banner",
+    "rich_text",
     "featured_collection",
+    "collage",
     "video",
-    "ff6064e9-240c-4943-92d5-2c37e9ba891c"
+    "multicolumn"
   ]
 }
