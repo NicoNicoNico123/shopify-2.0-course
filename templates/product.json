@@ -213,12 +213,48 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "9ccda353-c066-4ec8-920c-f6b0e3453248": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16560276144356__9ccda353-c066-4ec8-920c-f6b0e3453248-16653684849960bb80-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--16560276144356__9ccda353-c066-4ec8-920c-f6b0e3453248-16653684849960bb80-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16560276144356__9ccda353-c066-4ec8-920c-f6b0e3453248-16653684849960bb80-0",
+        "template--16560276144356__9ccda353-c066-4ec8-920c-f6b0e3453248-16653684849960bb80-1"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "main",
     "image-with-text",
     "multicolumn",
-    "product-recommendations"
+    "product-recommendations",
+    "9ccda353-c066-4ec8-920c-f6b0e3453248"
   ]
 }
