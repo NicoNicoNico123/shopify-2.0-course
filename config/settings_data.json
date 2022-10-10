@@ -1,7 +1,7 @@
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#121212",
+    "colors_accent_1": "#404040",
     "gradient_accent_1": "",
     "colors_accent_2": "#137BC2",
     "gradient_accent_2": "",
@@ -164,7 +164,7 @@
           "footer-1"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "accent-1",
           "newsletter_enable": true,
           "newsletter_heading": "Newsletter",
           "show_social": true,
