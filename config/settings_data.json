@@ -147,8 +147,8 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Our Vaccums",
-              "menu": "footer"
+              "heading": "OUR VACCUMS",
+              "menu": "main-menu"
             }
           },
           "footer-1": {
