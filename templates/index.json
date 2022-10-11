@@ -145,14 +145,14 @@
         "template--16560275685604__91793dab-7ab4-42b7-8362-b11346a2b207-1665463220adc3a2b9-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "FC20 ULTAMAX PRO",
+            "heading_size": "h2"
           }
         },
         "template--16560275685604__91793dab-7ab4-42b7-8362-b11346a2b207-1665463220adc3a2b9-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p><strong>Nex-Level Pro-Series 3-in-1 CORDLESS for<br\/>Home or Small Offices<\/strong><\/p><p><strong>✓<\/strong>Hard Floor Power Scrub Cleaner <br\/><strong>✓<\/strong>EZ-Spot & Spray Cleaner <\/p><p><strong>✓<\/strong>Vacuum Cleaner<br\/><strong>✓<\/strong>Commercial Grade Metal Side Supports <\/p><p><strong>✓<\/strong>Hi-Capacity EZ-Change Battery<\/p><p><\/p>",
             "text_style": "body"
           }
         },
@@ -170,10 +170,11 @@
         "template--16560275685604__91793dab-7ab4-42b7-8362-b11346a2b207-1665463220adc3a2b9-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/BD1_0077.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
