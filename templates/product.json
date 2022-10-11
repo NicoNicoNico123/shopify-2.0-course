@@ -90,15 +90,6 @@
             "page": ""
           }
         },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Care Instructions",
-            "icon": "heart",
-            "content": "",
-            "page": ""
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
@@ -119,7 +110,6 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "378805d7-7f19-47fc-a45b-9b658bfc06f5",
-        "collapsible-row-3",
         "share"
       ],
       "settings": {
