@@ -58,7 +58,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Special Feature",
-            "icon": "clipboard",
+            "icon": "Feature",
             "content": "",
             "page": ""
           }
@@ -67,7 +67,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Shipping & Returns",
-            "icon": "box",
+            "icon": "Shipping",
             "content": "",
             "page": "shipping-policy"
           }
@@ -76,7 +76,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Products Size",
-            "icon": "ruler",
+            "icon": "Dimension",
             "content": "<p>{{ product.metafields.custom.product_size.value }}<\/p>",
             "page": ""
           }
@@ -85,7 +85,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Product weight",
-            "icon": "return",
+            "icon": "Weight",
             "content": "",
             "page": ""
           }
