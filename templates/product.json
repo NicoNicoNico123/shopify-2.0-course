@@ -306,48 +306,6 @@
         "include_margins": true
       }
     },
-    "db544671-f37f-4a1c-994a-f16963df71aa": {
-      "type": "rich-text",
-      "blocks": {
-        "template--16560298721508__db544671-f37f-4a1c-994a-f16963df71aa-1665379580d2730ae1-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--16560298721508__db544671-f37f-4a1c-994a-f16963df71aa-1665379580d2730ae1-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--16560298721508__db544671-f37f-4a1c-994a-f16963df71aa-1665379580d2730ae1-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--16560298721508__db544671-f37f-4a1c-994a-f16963df71aa-1665379580d2730ae1-0",
-        "template--16560298721508__db544671-f37f-4a1c-994a-f16963df71aa-1665379580d2730ae1-1",
-        "template--16560298721508__db544671-f37f-4a1c-994a-f16963df71aa-1665379580d2730ae1-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "166546227504bd5499": {
       "type": "apps",
       "settings": {
@@ -379,7 +337,6 @@
     "8c2d3c7c-6f90-402b-a8c9-b969af79c515",
     "d07de62e-e9f8-4439-8fb2-0d03abd21571",
     "16653705981278b04d",
-    "db544671-f37f-4a1c-994a-f16963df71aa",
     "166546227504bd5499",
     "product-recommendations"
   ]
