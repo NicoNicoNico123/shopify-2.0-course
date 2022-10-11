@@ -81,6 +81,15 @@
             "page": ""
           }
         },
+        "378805d7-7f19-47fc-a45b-9b658bfc06f5": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Product weight",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
+        },
         "collapsible-row-3": {
           "type": "collapsible_tab",
           "settings": {
@@ -109,6 +118,7 @@
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
+        "378805d7-7f19-47fc-a45b-9b658bfc06f5",
         "collapsible-row-3",
         "share"
       ],
