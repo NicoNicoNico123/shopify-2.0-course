@@ -85,7 +85,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Product weight",
-            "icon": "check_mark",
+            "icon": "return",
             "content": "",
             "page": ""
           }
