@@ -129,6 +129,7 @@
       "settings": {
         "heading": "",
         "heading_size": "h1",
+        "cover_image": "{{ product.metafields.custom.product_image1.value }}",
         "video_url": "{{ product.metafields.custom.youtube.value }}",
         "description": "",
         "full_width": true,
