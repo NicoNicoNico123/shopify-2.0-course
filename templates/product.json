@@ -129,7 +129,7 @@
       "settings": {
         "heading": "Video",
         "heading_size": "h1",
-        "video_url": "R3lYWixpFPY",
+        "video_url": "{{ product.metafields.custom.youtube.value }}",
         "description": "",
         "full_width": false,
         "color_scheme": "background-1",
