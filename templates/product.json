@@ -32,7 +32,7 @@
           "settings": {
             "stars_fill_color": "#ffea00",
             "star_size": 15,
-            "text_align": "center",
+            "text_align": "flex-start",
             "product": "{{product}}",
             "stars_text_empty": "No reviews"
           }
@@ -402,6 +402,12 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "166546227504bd5499": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -413,6 +419,7 @@
     "d07de62e-e9f8-4439-8fb2-0d03abd21571",
     "16653705981278b04d",
     "8caf4f28-7549-41ab-acd1-d038e0939ede",
-    "db544671-f37f-4a1c-994a-f16963df71aa"
+    "db544671-f37f-4a1c-994a-f16963df71aa",
+    "166546227504bd5499"
   ]
 }
