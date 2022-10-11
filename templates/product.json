@@ -69,13 +69,13 @@
             "heading": "Shipping & Returns",
             "icon": "box",
             "content": "",
-            "page": ""
+            "page": "shipping-policy"
           }
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Dimensions",
+            "heading": "Products Size",
             "icon": "ruler",
             "content": "",
             "page": ""
@@ -129,7 +129,7 @@
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "cover_image": "{{ product.metafields.custom.product_image1.value }}",
+        "cover_image": "shopify:\/\/shop_images\/18.jpg",
         "video_url": "{{ product.metafields.custom.youtube.value }}",
         "description": "",
         "full_width": true,
