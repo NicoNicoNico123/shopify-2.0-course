@@ -77,7 +77,7 @@
           "settings": {
             "heading": "Products Size",
             "icon": "ruler",
-            "content": "",
+            "content": "<p>{{ product.metafields.custom.product_size.value }}<\/p>",
             "page": ""
           }
         },
