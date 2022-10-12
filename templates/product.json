@@ -307,7 +307,7 @@
           "settings": {
             "heading": "Max Suction Power",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>Up to 23 Air Watts (Motor Speed: 100,000 rpm)<\/p>",
             "page": ""
           }
         },
