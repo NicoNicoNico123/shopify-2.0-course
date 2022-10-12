@@ -316,7 +316,7 @@
           "settings": {
             "heading": "Charge Time",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>~3.5H FX Charger*  (34.2V 1600mA) <\/p>",
             "page": ""
           }
         }
