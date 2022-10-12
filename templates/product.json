@@ -272,8 +272,9 @@
         "877deb02-da83-4cc8-b9b4-db9bb3884cae": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/5.jpg",
+            "title": "Dual Pro High Efficiency Filter System",
+            "text": "<p>Provides up to 99.9% dust and<br\/>air separation (up to 0.3μm dust removed). Includes EZ-CLEAN inlet filter to capturedirt and maintenance-free outlet filter to captureallergens.<br\/><br\/><\/p>",
             "link_label": "",
             "link": ""
           }
