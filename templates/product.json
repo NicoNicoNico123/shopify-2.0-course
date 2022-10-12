@@ -296,7 +296,7 @@
         "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Power Output  \/ Noise Level*",
+            "heading": "Power Output  \/ Noise Level",
             "icon": "none",
             "row_content": "",
             "page": ""
@@ -306,7 +306,16 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Max Suction Power",
-            "icon": "clipboard",
+            "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "f78ca53c-49fa-4db8-b9cd-eb39220e5077": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Charge Time",
+            "icon": "none",
             "row_content": "",
             "page": ""
           }
@@ -317,7 +326,8 @@
         "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-1",
         "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-2",
         "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-3",
-        "76ac5f8c-ad4b-428d-857a-b7594aec3449"
+        "76ac5f8c-ad4b-428d-857a-b7594aec3449",
+        "f78ca53c-49fa-4db8-b9cd-eb39220e5077"
       ],
       "settings": {
         "caption": "",
