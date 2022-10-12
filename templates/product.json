@@ -280,7 +280,7 @@
           "settings": {
             "heading": "Estimated Run Time",
             "icon": "none",
-            "row_content": "<p><em><strong>TURBO MAX Power <\/strong><\/em><strong>: <\/strong>~10 min<\/p><p><em><strong>MID Power <\/strong><\/em><strong>: <\/strong>~25 min<\/p><p><em><strong>ECO Power <\/strong><\/em><strong>: <\/strong>~70 min<\/p>",
+            "row_content": "<p><strong>TURBO MAX Power<\/strong><em><strong> <\/strong><\/em><strong>: <\/strong>~10 min<\/p><p><strong>MID Power<\/strong><em><strong> <\/strong><\/em><strong>: <\/strong>~25 min<\/p><p><strong>ECO Power<\/strong><em><strong> <\/strong><\/em><strong>: <\/strong>~70 min<\/p>",
             "page": ""
           }
         },
