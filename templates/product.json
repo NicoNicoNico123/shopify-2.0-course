@@ -233,8 +233,8 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/10_small_77b4a42b-7745-40a1-9bde-fa72b08e5f1e.jpg",
-            "title": "Column",
-            "text": "",
+            "title": "LED Display",
+            "text": "<p>Shows operating status:<br\/>Working mode, Low Battery, Charging Status and more <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -242,8 +242,8 @@
         "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Ergonomic",
+            "text": "<p>Wellness Design<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -265,51 +265,49 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "877deb02-da83-4cc8-b9b4-db9bb3884cae": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b663fed6-dd94-439d-974b-b908ad3287b9": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-0",
         "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-1",
         "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-2",
-        "522f87bf-8493-4da2-b043-6261692ba9fe"
+        "522f87bf-8493-4da2-b043-6261692ba9fe",
+        "877deb02-da83-4cc8-b9b4-db9bb3884cae",
+        "b663fed6-dd94-439d-974b-b908ad3287b9"
       ],
       "settings": {
-        "title": "In the box",
-        "heading_size": "h1",
+        "title": "Key Feature",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 16,
         "padding_bottom": 36
-      }
-    },
-    "16653705981278b04d": {
-      "type": "apps",
-      "blocks": {
-        "954ac3dd-9a1b-4522-a6f8-fe509bcf63e8": {
-          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "954ac3dd-9a1b-4522-a6f8-fe509bcf63e8"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "166546227504bd5499": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
       }
     },
     "b4b82444-8e29-4d6b-b2c7-57612d67ba79": {
@@ -373,6 +371,22 @@
         "padding_bottom": 36
       }
     },
+    "16653705981278b04d": {
+      "type": "apps",
+      "blocks": {
+        "954ac3dd-9a1b-4522-a6f8-fe509bcf63e8": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "954ac3dd-9a1b-4522-a6f8-fe509bcf63e8"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -397,9 +411,8 @@
     "image-with-text",
     "8c2d3c7c-6f90-402b-a8c9-b969af79c515",
     "d07de62e-e9f8-4439-8fb2-0d03abd21571",
-    "16653705981278b04d",
-    "166546227504bd5499",
     "b4b82444-8e29-4d6b-b2c7-57612d67ba79",
+    "16653705981278b04d",
     "product-recommendations"
   ]
 }
