@@ -242,6 +242,7 @@
         "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/65.png",
             "title": "Ergonomic",
             "text": "<p>Ergonomic Wellness Design to<br\/>let your wrist stretch naturally for ease of use<br\/><br\/><\/p>",
             "link_label": "",
@@ -251,8 +252,8 @@
         "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Run Time upto ~70min",
+            "text": "<p>High-Capacity Battery Pack.<br\/>Premium grade 3000mAhLi-Ion Batteries+3H Fast Charger*<\/p>",
             "link_label": "",
             "link": ""
           }
