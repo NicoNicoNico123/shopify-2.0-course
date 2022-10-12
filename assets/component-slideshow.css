@@ -44,8 +44,18 @@ slideshow-component .slideshow.banner {
   max-width: 54.5rem;
 }
 
-.slideshow__text > * {
+.slideshow__text > *{
   max-width: 100%;
+  text-shadow: 1px 1px 4px #4a4a4a
+}
+
+.banner__text{
+  font-size: 2rem;
+  text-shadow: 0.5px 0.5px 1px #4a4a4a
+}
+
+.banner__buttons {
+  text-shadow: 0px 0px 0px #000000
 }
 
 @media screen and (max-width: 749px) {
