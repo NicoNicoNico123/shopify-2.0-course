@@ -296,8 +296,17 @@
         "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Power Output  \/ Noise Level*",
             "icon": "none",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "76ac5f8c-ad4b-428d-857a-b7594aec3449": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Max Suction Power",
+            "icon": "clipboard",
             "row_content": "",
             "page": ""
           }
@@ -307,7 +316,8 @@
         "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-0",
         "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-1",
         "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-2",
-        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-3"
+        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-3",
+        "76ac5f8c-ad4b-428d-857a-b7594aec3449"
       ],
       "settings": {
         "caption": "",
