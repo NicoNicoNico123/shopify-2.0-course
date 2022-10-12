@@ -229,12 +229,22 @@
     "d07de62e-e9f8-4439-8fb2-0d03abd21571": {
       "type": "multicolumn",
       "blocks": {
-        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-0": {
+        "522f87bf-8493-4da2-b043-6261692ba9fe": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2.jpg",
-            "title": "LED Display",
-            "text": "<p>Shows operating status:<br\/>Working mode, Low Battery, Charging Status and more <\/p>",
+            "image": "shopify:\/\/shop_images\/BD-_0077.jpg",
+            "title": "Powerful Suction with Energy-Efficient Design.",
+            "text": "<p>The Synchronized Digital Motor’s advanced technology helps optimize run time and combined with our innovative design helps generate Max Suction Power up to220 Air Watts.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "877deb02-da83-4cc8-b9b4-db9bb3884cae": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.00_00_17_06.Still002.jpg",
+            "title": "Dual Pro High Efficiency Filter System",
+            "text": "<p>Provides up to 99.9% dust and<br\/>air separation (up to 0.3μm dust removed). Includes EZ-CLEAN inlet filter to capturedirt and maintenance-free outlet filter to captureallergens.<br\/><br\/><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -259,22 +269,12 @@
             "link": ""
           }
         },
-        "522f87bf-8493-4da2-b043-6261692ba9fe": {
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BD-_0077.jpg",
-            "title": "Powerful Suction with Energy-Efficient Design.",
-            "text": "<p>The Synchronized Digital Motor’s advanced technology helps optimize run time and combined with our innovative design helps generate Max Suction Power up to220 Air Watts.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "877deb02-da83-4cc8-b9b4-db9bb3884cae": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/6.00_00_17_06.Still002.jpg",
-            "title": "Dual Pro High Efficiency Filter System",
-            "text": "<p>Provides up to 99.9% dust and<br\/>air separation (up to 0.3μm dust removed). Includes EZ-CLEAN inlet filter to capturedirt and maintenance-free outlet filter to captureallergens.<br\/><br\/><\/p>",
+            "image": "shopify:\/\/shop_images\/BD-_0077.png",
+            "title": "LED Display",
+            "text": "<p>Shows operating status:<br\/>Working mode, Low Battery, Charging Status and more <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -282,19 +282,19 @@
         "b663fed6-dd94-439d-974b-b908ad3287b9": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Hi-Performance Motorized \/ ElectricTools",
+            "text": "<p>Innovative<strong> Anti-Tangle Design, <\/strong>making vacuuming a little more enjoyable.<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-0",
-        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-1",
-        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-2",
         "522f87bf-8493-4da2-b043-6261692ba9fe",
         "877deb02-da83-4cc8-b9b4-db9bb3884cae",
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-1",
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-2",
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-0",
         "b663fed6-dd94-439d-974b-b908ad3287b9"
       ],
       "settings": {
