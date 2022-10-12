@@ -298,7 +298,7 @@
           "settings": {
             "heading": "Power Output  \/ Noise Level",
             "icon": "none",
-            "row_content": "",
+            "row_content": "<p>~630W Synchronized Digital Motor <\/p><p>~30W Motorized Floor Tool ~82dB<\/p>",
             "page": ""
           }
         },
