@@ -161,6 +161,42 @@
         "padding_bottom": 36
       }
     },
+    "cef38528-4c2b-4665-b556-4e10b912efa3": {
+      "type": "image-with-text",
+      "blocks": {
+        "05a822c2-4f2d-4a7d-b1da-7c4a70ed7004": {
+          "type": "heading",
+          "settings": {
+            "heading": "Powerful Suction when you need it most!",
+            "heading_size": "h2"
+          }
+        },
+        "306de47b-bec4-4ff7-a296-89bdc1a45253": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Experience the Next-Level of superior suction with one of the highest air watts on a stick vacuum.<br\/>Innovative 630W Synchronized Digital Motor …up to 220 Air Watts<\/strong><br\/> <\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "05a822c2-4f2d-4a7d-b1da-7c4a70ed7004",
+        "306de47b-bec4-4ff7-a296-89bdc1a45253"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/6.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "8caf4f28-7549-41ab-acd1-d038e0939ede": {
       "type": "video",
       "settings": {
@@ -264,6 +300,62 @@
         "padding_bottom": 36
       }
     },
+    "eeb9dddb-133c-4863-83e6-6c292d2d40d3": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LED_nozzle_with_carpet_roller.png",
+            "title": "Motorized Multi-Surface Soft Roller",
+            "text": "<p>For Hard Floorwith an <strong>Innovative Tangle-Resistant Design<\/strong>,<strong>Natural Bright White LEDLight <\/strong>for better clarity<strong>, <\/strong>making vacuuming a littlemore enjoyable<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/no_LED_nozzle_with_soft_roller.png",
+            "title": "Motorized Multi-Surface with Softer Carpet Friendly Bristles",
+            "text": "<p>Composite Floor Nozzle with an <strong>InnovativeTangle-Resistant<br\/>Design<\/strong>, making vacuuming a little more enjoyable<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/motorized_multi_surface_brush.png",
+            "title": "Mini-Electric Mattress",
+            "text": "<p>For \/ Sofa \/ Stairs with Softer Friendly<br\/>Bristles \/ Composite Brush<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-0",
+        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-1",
+        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-2"
+      ],
+      "settings": {
+        "title": "Hi-Performance Motorized  Tools",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "b4b82444-8e29-4d6b-b2c7-57612d67ba79": {
       "type": "collapsible-content",
       "blocks": {
@@ -345,62 +437,6 @@
         "padding_bottom": 36
       }
     },
-    "eeb9dddb-133c-4863-83e6-6c292d2d40d3": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/LED_nozzle_with_carpet_roller.png",
-            "title": "Motorized Multi-Surface Soft Roller",
-            "text": "<p>For Hard Floorwith an <strong>Innovative Tangle-Resistant Design<\/strong>,<strong>Natural Bright White LEDLight <\/strong>for better clarity<strong>, <\/strong>making vacuuming a littlemore enjoyable<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/no_LED_nozzle_with_soft_roller.png",
-            "title": "Motorized Multi-Surface with Softer Carpet Friendly Bristles",
-            "text": "<p>Composite Floor Nozzle with an <strong>InnovativeTangle-Resistant<br\/>Design<\/strong>, making vacuuming a little more enjoyable<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/motorized_multi_surface_brush.png",
-            "title": "Mini-Electric Mattress",
-            "text": "<p>For \/ Sofa \/ Stairs with Softer Friendly<br\/>Bristles \/ Composite Brush<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-0",
-        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-1",
-        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-2"
-      ],
-      "settings": {
-        "title": "Hi-Performance Motorized  Tools",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "16653705981278b04d": {
       "type": "apps",
       "blocks": {
@@ -472,10 +508,11 @@
   "order": [
     "main",
     "image-with-text",
+    "cef38528-4c2b-4665-b556-4e10b912efa3",
     "8caf4f28-7549-41ab-acd1-d038e0939ede",
     "d07de62e-e9f8-4439-8fb2-0d03abd21571",
-    "b4b82444-8e29-4d6b-b2c7-57612d67ba79",
     "eeb9dddb-133c-4863-83e6-6c292d2d40d3",
+    "b4b82444-8e29-4d6b-b2c7-57612d67ba79",
     "16653705981278b04d",
     "product-recommendations",
     "3b995f87-544a-4a04-951a-ebbcf9ffa94e"
