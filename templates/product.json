@@ -118,7 +118,7 @@
         "media_position": "left",
         "gallery_layout": "thumbnail_slider",
         "media_size": "medium",
-        "mobile_thumbnails": "hide",
+        "mobile_thumbnails": "show",
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 36,
@@ -148,7 +148,7 @@
         "image-with-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/6.jpg",
+        "image": "shopify:\/\/shop_images\/1032.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
