@@ -364,7 +364,7 @@
           "settings": {
             "heading": "Replaceable Battery Pack Type",
             "icon": "none",
-            "row_content": "<p><strong>28.8V \/ Easy Change - CLICK-IN <\/strong>Hi-Capacity Battery Pack with eight (8) premium grade 3000mAh Li-Ion batteries<\/p>",
+            "row_content": "<p>28.8 V Easy Change – CLICK-IN Hi<br\/>Capacity Battery Pack<\/p>",
             "page": ""
           }
         },
@@ -373,7 +373,7 @@
           "settings": {
             "heading": "Estimated Run Time",
             "icon": "none",
-            "row_content": "<p><strong>TURBO MAX Power<\/strong><em><strong> <\/strong><\/em><strong>: <\/strong>~10 min<\/p><p><strong>MID Power<\/strong><em><strong> <\/strong><\/em><strong>: <\/strong>~25 min<\/p><p><strong>ECO Power<\/strong><em><strong> <\/strong><\/em><strong>: <\/strong>~70 min<\/p>",
+            "row_content": "<p>~70 min* on Eco Power<\/p>",
             "page": ""
           }
         },
@@ -382,16 +382,7 @@
           "settings": {
             "heading": "Dust Box \/ Capacity \/ Filter",
             "icon": "none",
-            "row_content": "<p>~580ml \/ ~350ml \/ HEPA Filter \/ Multi-Cyclone Dustbin*<\/p>",
-            "page": ""
-          }
-        },
-        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-3": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Power Output  \/ Noise Level",
-            "icon": "none",
-            "row_content": "<p>~630W Synchronized Digital Motor <\/p><p>~30W Motorized Floor Tool ~82dB<\/p>",
+            "row_content": "<p>~ 580ml\/HEPA Filter<\/p>",
             "page": ""
           }
         },
@@ -400,7 +391,7 @@
           "settings": {
             "heading": "Max Suction Power",
             "icon": "none",
-            "row_content": "<p>Up to 23 Air Watts (Motor Speed: 100,000 rpm)<\/p>",
+            "row_content": "<p>Up to 220 AW*<\/p>",
             "page": ""
           }
         },
@@ -409,7 +400,7 @@
           "settings": {
             "heading": "Charge Time",
             "icon": "none",
-            "row_content": "<p>~3.5H FX Charger*  (34.2V 1600mA) <\/p>",
+            "row_content": "<p>~3.5 Hours<\/p>",
             "page": ""
           }
         }
@@ -418,7 +409,6 @@
         "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-0",
         "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-1",
         "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-2",
-        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-3",
         "76ac5f8c-ad4b-428d-857a-b7594aec3449",
         "f78ca53c-49fa-4db8-b9cd-eb39220e5077"
       ],
