@@ -529,6 +529,43 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "7d6eb843-1c15-472c-bfca-979da3ee37c9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/short_cleaning_brush_with_cutter.png",
+            "title": "",
+            "text": "<p><strong>Shorter Cleaning Brush with Cutter <\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "57b85f57-5612-4499-8744-d737abe6d71d": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3bd6040e-b0e4-4146-bf81-2b7f71b6e215": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "04d77fb4-ffda-4194-a856-b789a32f5bed": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -543,7 +580,11 @@
         "b1788ba2-6401-4f05-9e9d-048b4ae162cc",
         "c7b163bb-a736-4dad-8d1f-ecf4b4685200",
         "3688361a-78f2-4280-8fd5-be95c76816c4",
-        "df5cf7fd-7e5f-4e11-97bc-d1bb650f49d6"
+        "df5cf7fd-7e5f-4e11-97bc-d1bb650f49d6",
+        "7d6eb843-1c15-472c-bfca-979da3ee37c9",
+        "57b85f57-5612-4499-8744-d737abe6d71d",
+        "3bd6040e-b0e4-4146-bf81-2b7f71b6e215",
+        "04d77fb4-ffda-4194-a856-b789a32f5bed"
       ],
       "settings": {
         "title": "Accessories",
