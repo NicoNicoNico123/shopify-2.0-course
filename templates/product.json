@@ -557,6 +557,60 @@
         "padding_top": 32,
         "padding_bottom": 36
       }
+    },
+    "473c6e2e-5d90-488c-8e56-8d8a46a03757": {
+      "type": "multi_accessories",
+      "blocks": {
+        "template--16642955608292__473c6e2e-5d90-488c-8e56-8d8a46a03757-16710751757c2675d1-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lifestyle.jpg",
+            "title": "",
+            "text": "<p><strong>VC14 Handheld Body <\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "30322f2c-79c5-4a4f-af15-e7aece698135": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1032.jpg",
+            "title": "",
+            "text": "<p><strong>VC14 Handheld Body <\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d73bdf2d-33a3-4b10-bcab-14142fae4680": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lifestyle.jpg",
+            "title": "",
+            "text": "<p><strong>VC14 Handheld Body <\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16642955608292__473c6e2e-5d90-488c-8e56-8d8a46a03757-16710751757c2675d1-0",
+        "30322f2c-79c5-4a4f-af15-e7aece698135",
+        "d73bdf2d-33a3-4b10-bcab-14142fae4680"
+      ],
+      "settings": {
+        "title": "accessories",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -570,6 +624,7 @@
     "16653705981278b04d",
     "product-recommendations",
     "3b995f87-544a-4a04-951a-ebbcf9ffa94e",
-    "b6518c4a-b183-4aa9-a4cb-ed51355859d1"
+    "b6518c4a-b183-4aa9-a4cb-ed51355859d1",
+    "473c6e2e-5d90-488c-8e56-8d8a46a03757"
   ]
 }

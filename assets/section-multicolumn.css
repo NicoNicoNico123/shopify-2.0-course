@@ -79,7 +79,7 @@
 }
 
 .multicolumn-card-spacing {
-  padding-top: 2.5rem;
+  padding: 2.5rem 0 2.5rem 0;
   margin-left: 2.5rem;
   margin-right: 2.5rem;
 }
