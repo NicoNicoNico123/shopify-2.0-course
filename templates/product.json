@@ -493,8 +493,9 @@
         "b1788ba2-6401-4f05-9e9d-048b4ae162cc": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Pet_hair_removal_brush.png",
+            "title": "",
+            "text": "<p><strong>Deluxe Pet Hair Removal Brush<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
