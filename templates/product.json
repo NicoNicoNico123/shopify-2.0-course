@@ -415,7 +415,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/VC14Body.png",
             "title": "",
-            "text": "<p><strong>1.VC14 Handheld Body <\/strong><\/p>",
+            "text": "<p><strong>VC14 Handheld Body <\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -425,7 +425,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Tube.png",
             "title": "",
-            "text": "<p><strong>2.Aluminum Extension Tube<\/strong><\/p>",
+            "text": "<p><strong>Aluminum Extension Tube<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -435,7 +435,34 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/LED_nozzle_with_carpet_roller_44ff5f8f-e809-4599-8629-66e153af54a5.png",
             "title": "",
-            "text": "<p><strong>VC14 Handheld Body <\/strong><\/p>",
+            "text": "<p><strong>Multi-Surface Hard Floor Soft Roller, Natural Brite-White LED Light<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4d07c573-1184-4d01-9727-58959557cb16": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "78bea8d2-4683-465b-86ee-1d876ac86b21": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -444,7 +471,10 @@
       "block_order": [
         "template--16642955608292__473c6e2e-5d90-488c-8e56-8d8a46a03757-16710751757c2675d1-0",
         "30322f2c-79c5-4a4f-af15-e7aece698135",
-        "d73bdf2d-33a3-4b10-bcab-14142fae4680"
+        "d73bdf2d-33a3-4b10-bcab-14142fae4680",
+        "4d07c573-1184-4d01-9727-58959557cb16",
+        "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3",
+        "78bea8d2-4683-465b-86ee-1d876ac86b21"
       ],
       "settings": {
         "title": "Accessories",
@@ -453,7 +483,7 @@
         "image_ratio": "square",
         "columns_desktop": 3,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
