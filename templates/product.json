@@ -427,6 +427,22 @@
         "padding_bottom": 36
       }
     },
+    "16653705981278b04d": {
+      "type": "apps",
+      "blocks": {
+        "954ac3dd-9a1b-4522-a6f8-fe509bcf63e8": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "954ac3dd-9a1b-4522-a6f8-fe509bcf63e8"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -450,7 +466,7 @@
         "template--16560276144356__3b995f87-544a-4a04-951a-ebbcf9ffa94e-1670574871995f9045-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/VC14_feature_12122022-01.png",
+            "image": "shopify:\/\/shop_images\/2BD1_0077.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -468,13 +484,77 @@
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b6518c4a-b183-4aa9-a4cb-ed51355859d1": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16560276144356__b6518c4a-b183-4aa9-a4cb-ed51355859d1-16710119081ae398cf-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/motorized_multi_surface_brush.png",
+            "title": "",
+            "text": "<p>1.Tangle Resistant Design, Motorized Multi-Surface Hard Floor Soft Roller, Natural Brite-White LED Light.<br\/><em>For carpet use ECO mode only*<\/em><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16560276144356__b6518c4a-b183-4aa9-a4cb-ed51355859d1-16710119081ae398cf-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16560276144356__b6518c4a-b183-4aa9-a4cb-ed51355859d1-16710119081ae398cf-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "8dfe68b0-9290-498c-835a-8e133aea294a": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16560276144356__b6518c4a-b183-4aa9-a4cb-ed51355859d1-16710119081ae398cf-0",
+        "template--16560276144356__b6518c4a-b183-4aa9-a4cb-ed51355859d1-16710119081ae398cf-1",
+        "template--16560276144356__b6518c4a-b183-4aa9-a4cb-ed51355859d1-16710119081ae398cf-2",
+        "8dfe68b0-9290-498c-835a-8e133aea294a"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 32,
         "padding_bottom": 36
       }
     },
@@ -518,7 +598,7 @@
         "d73bdf2d-33a3-4b10-bcab-14142fae4680"
       ],
       "settings": {
-        "title": "Accessories",
+        "title": "accessories",
         "heading_size": "h1",
         "image_width": "half",
         "image_ratio": "square",
@@ -531,22 +611,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "16653705981278b04d": {
-      "type": "apps",
-      "blocks": {
-        "954ac3dd-9a1b-4522-a6f8-fe509bcf63e8": {
-          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "954ac3dd-9a1b-4522-a6f8-fe509bcf63e8"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
@@ -557,9 +621,10 @@
     "d07de62e-e9f8-4439-8fb2-0d03abd21571",
     "eeb9dddb-133c-4863-83e6-6c292d2d40d3",
     "b4b82444-8e29-4d6b-b2c7-57612d67ba79",
+    "16653705981278b04d",
     "product-recommendations",
     "3b995f87-544a-4a04-951a-ebbcf9ffa94e",
-    "473c6e2e-5d90-488c-8e56-8d8a46a03757",
-    "16653705981278b04d"
+    "b6518c4a-b183-4aa9-a4cb-ed51355859d1",
+    "473c6e2e-5d90-488c-8e56-8d8a46a03757"
   ]
 }
