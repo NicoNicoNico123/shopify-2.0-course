@@ -483,8 +483,9 @@
         "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/soft_hairbrush.png",
+            "title": "",
+            "text": "<p><strong>Deluxe Soft Hairbrush<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
