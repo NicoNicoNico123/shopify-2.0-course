@@ -463,8 +463,9 @@
         "78bea8d2-4683-465b-86ee-1d876ac86b21": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/2in1_sofa_brush.png",
+            "title": "",
+            "text": "<p><strong>Deluxe 2-in-1 Sofa Brush<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
