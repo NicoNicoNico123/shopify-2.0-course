@@ -499,6 +499,36 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "c7b163bb-a736-4dad-8d1f-ecf4b4685200": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/flexible_hose.png",
+            "title": "",
+            "text": "<p><strong>Flexible\/Stretch Hose<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3688361a-78f2-4280-8fd5-be95c76816c4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bendable_connector.png",
+            "title": "",
+            "text": "<p><strong>Bendable Connector<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "df5cf7fd-7e5f-4e11-97bc-d1bb650f49d6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/storage_bag.png",
+            "title": "",
+            "text": "<p><strong>Accessory Storage Bag<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -510,7 +540,10 @@
         "78bea8d2-4683-465b-86ee-1d876ac86b21",
         "0d0d399f-9604-41c9-9e64-8b5e9aea28e6",
         "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778",
-        "b1788ba2-6401-4f05-9e9d-048b4ae162cc"
+        "b1788ba2-6401-4f05-9e9d-048b4ae162cc",
+        "c7b163bb-a736-4dad-8d1f-ecf4b4685200",
+        "3688361a-78f2-4280-8fd5-be95c76816c4",
+        "df5cf7fd-7e5f-4e11-97bc-d1bb650f49d6"
       ],
       "settings": {
         "title": "Accessories",
