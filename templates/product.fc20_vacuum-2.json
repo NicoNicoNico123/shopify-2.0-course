@@ -184,9 +184,9 @@
         "306de47b-bec4-4ff7-a296-89bdc1a45253"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1014.jpg",
+        "image": "shopify:\/\/shop_images\/inner_nozzle_randering.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
