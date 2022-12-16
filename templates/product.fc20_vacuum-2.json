@@ -239,7 +239,7 @@
         "heading": "",
         "heading_size": "h0",
         "cover_image": "shopify:\/\/shop_images\/VC14_thumbnail_b0dd945e-fa56-425e-a90d-e9a3e4b6cbff.jpg",
-        "video_url": "{{ product.metafields.custom.youtube.value }}",
+        "video_url": "",
         "description": "",
         "full_width": false,
         "color_scheme": "background-1",
