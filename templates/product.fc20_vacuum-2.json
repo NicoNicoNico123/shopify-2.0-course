@@ -131,14 +131,14 @@
         "image-with-text-0": {
           "type": "heading",
           "settings": {
-            "heading": "Powerful Suction when you need it most!",
+            "heading": "Say goodbye to dirty floors",
             "heading_size": "h2"
           }
         },
         "image-with-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Experience the Next-Level of superior suction with one of the highest air watts on a stick vacuum.<br\/>Innovative 630W Synchronized Digital Motor …up to 220 Air Watts<\/strong><br\/> <\/p>",
+            "text": "<p>Clean any surface with ease using the power scrub soft roller. Its soft roller design is perfect for hard floors and its cleaning power will leave your surfaces spotless. <\/p>",
             "text_style": "body"
           }
         }
@@ -148,7 +148,7 @@
         "image-with-text-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1032.jpg",
+        "image": "shopify:\/\/shop_images\/clean.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
