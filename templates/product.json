@@ -197,6 +197,42 @@
         "padding_bottom": 36
       }
     },
+    "416de713-6f6a-4b25-9004-8e37b4f4c849": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16560276144356__416de713-6f6a-4b25-9004-8e37b4f4c849-1671166013c316ff7a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Easily Keep Your Car Seats Spotless with VC14",
+            "heading_size": "h2"
+          }
+        },
+        "template--16560276144356__416de713-6f6a-4b25-9004-8e37b4f4c849-1671166013c316ff7a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Keep your car's interior looking clean and fresh with our vacuum attachments specifically designed for cleaning car seats. These attachments make it easy to remove dirt, dust, and debris from even the most hard-to-reach areas of your car's seats.<\/strong><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16560276144356__416de713-6f6a-4b25-9004-8e37b4f4c849-1671166013c316ff7a-0",
+        "template--16560276144356__416de713-6f6a-4b25-9004-8e37b4f4c849-1671166013c316ff7a-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Car_cushion_cleaning3.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "8caf4f28-7549-41ab-acd1-d038e0939ede": {
       "type": "video",
       "settings": {
@@ -718,6 +754,7 @@
     "main",
     "image-with-text",
     "cef38528-4c2b-4665-b556-4e10b912efa3",
+    "416de713-6f6a-4b25-9004-8e37b4f4c849",
     "8caf4f28-7549-41ab-acd1-d038e0939ede",
     "d07de62e-e9f8-4439-8fb2-0d03abd21571",
     "eeb9dddb-133c-4863-83e6-6c292d2d40d3",
