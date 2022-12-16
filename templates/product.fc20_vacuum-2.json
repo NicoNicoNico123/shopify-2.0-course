@@ -203,7 +203,7 @@
         "template--16560276144356__416de713-6f6a-4b25-9004-8e37b4f4c849-1671166013c316ff7a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Easily Keep Your Car Seats Spotless with VC14",
+            "heading": "Revolutionize waste sorting with our innovative wet and dry separator",
             "heading_size": "h2"
           }
         },
@@ -220,17 +220,17 @@
         "template--16560276144356__416de713-6f6a-4b25-9004-8e37b4f4c849-1671166013c316ff7a-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Car_cushion_cleaning3.jpg",
+        "image": "shopify:\/\/shop_images\/dirt_water_tank_combination.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "8caf4f28-7549-41ab-acd1-d038e0939ede": {
