@@ -545,7 +545,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/long_cleaning_brush.png",
             "title": "",
-            "text": "<p>Longer Cleaning Brush with Bristles<\/p>",
+            "text": "<p><strong>Longer Cleaning Brush with Bristles<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -563,8 +563,19 @@
         "04d77fb4-ffda-4194-a856-b789a32f5bed": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/VC14Batterypack.png",
+            "title": "",
+            "text": "<p><strong>CLICK-IN Hi-Capacity Lion-Ion Battery Pack<br\/><\/strong><br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "52bdbac5-8011-4c74-b97f-01fcf40ea560": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VC14charger.png",
+            "title": "",
+            "text": "<p><strong>Premium Fast Charger<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -586,7 +597,8 @@
         "7d6eb843-1c15-472c-bfca-979da3ee37c9",
         "57b85f57-5612-4499-8744-d737abe6d71d",
         "3bd6040e-b0e4-4146-bf81-2b7f71b6e215",
-        "04d77fb4-ffda-4194-a856-b789a32f5bed"
+        "04d77fb4-ffda-4194-a856-b789a32f5bed",
+        "52bdbac5-8011-4c74-b97f-01fcf40ea560"
       ],
       "settings": {
         "title": "Accessories",
