@@ -1,0 +1,767 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "body"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "cd8603d8-eca0-438b-8556-b773bc4791c2": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/star_rating\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+            "stars_fill_color": "#ffea00",
+            "star_size": 15,
+            "text_align": "flex-start",
+            "product": "{{product}}",
+            "stars_text_empty": "No reviews"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Special Feature",
+            "icon": "Feature",
+            "content": "<p>•Innovative<strong> 630W <\/strong>Synchronized Digital Motor<strong> <\/strong>up to <strong>220AW       <\/strong> <\/p><p>•<strong>Extreme Suction →<\/strong> Vacuum Faster & Cleaner!<\/p><p>•<strong>2-in-1 Cordless, <\/strong>with <strong>EZ-Detach <\/strong>handheldunit for quick clean up <strong>+EZ-CLICK-IN<\/strong> Li-Ion Battery!<\/p><p>•<strong>EZ-ONE Press Disposal<\/strong>. For<br\/>Fast-&-Easy emptying dust bin<br\/><br\/><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Shipping & Returns",
+            "icon": "Shipping",
+            "content": "",
+            "page": "shipping-policy"
+          }
+        },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Products Size",
+            "icon": "Dimension",
+            "content": "<p>{{ product.metafields.custom.product_size.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "378805d7-7f19-47fc-a45b-9b658bfc06f5": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Product weight",
+            "icon": "Weight",
+            "content": "<p>~<em>2.9kg  (<\/em>~6.39lbs)<\/p>",
+            "page": ""
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "caption",
+        "price",
+        "cd8603d8-eca0-438b-8556-b773bc4791c2",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "collapsible-row-0",
+        "collapsible-row-1",
+        "collapsible-row-2",
+        "378805d7-7f19-47fc-a45b-9b658bfc06f5",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_position": "left",
+        "gallery_layout": "thumbnail_slider",
+        "media_size": "medium",
+        "mobile_thumbnails": "show",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "image-with-text-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Powerful Suction when you need it most!",
+            "heading_size": "h2"
+          }
+        },
+        "image-with-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Experience the Next-Level of superior suction with one of the highest air watts on a stick vacuum.<br\/>Innovative 630W Synchronized Digital Motor …up to 220 Air Watts<\/strong><br\/> <\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "image-with-text-0",
+        "image-with-text-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1032.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cef38528-4c2b-4665-b556-4e10b912efa3": {
+      "type": "image-with-text",
+      "blocks": {
+        "05a822c2-4f2d-4a7d-b1da-7c4a70ed7004": {
+          "type": "heading",
+          "settings": {
+            "heading": "Clean Up Even in the Dark with LED-Equipped Vacuum Nozzle",
+            "heading_size": "h2"
+          }
+        },
+        "306de47b-bec4-4ff7-a296-89bdc1a45253": {
+          "type": "text",
+          "settings": {
+            "text": "<p>VC14 vacuum nozzle with LED lights allows for easy cleaning in dark or dimly lit spaces. The LED lights highlight hidden dirt and debris, while the nozzle's specialized design helps to access hard-to-reach areas. This makes cleaning more efficient and effective.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "05a822c2-4f2d-4a7d-b1da-7c4a70ed7004",
+        "306de47b-bec4-4ff7-a296-89bdc1a45253"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1014.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "416de713-6f6a-4b25-9004-8e37b4f4c849": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16560276144356__416de713-6f6a-4b25-9004-8e37b4f4c849-1671166013c316ff7a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Easily Keep Your Car Seats Spotless with VC14",
+            "heading_size": "h2"
+          }
+        },
+        "template--16560276144356__416de713-6f6a-4b25-9004-8e37b4f4c849-1671166013c316ff7a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Keep your car's interior looking clean and fresh with our vacuum attachments specifically designed for cleaning car seats. These attachments make it easy to remove dirt, dust, and debris from even the most hard-to-reach areas of your car's seats.<\/strong><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16560276144356__416de713-6f6a-4b25-9004-8e37b4f4c849-1671166013c316ff7a-0",
+        "template--16560276144356__416de713-6f6a-4b25-9004-8e37b4f4c849-1671166013c316ff7a-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Car_cushion_cleaning3.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8caf4f28-7549-41ab-acd1-d038e0939ede": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h0",
+        "cover_image": "shopify:\/\/shop_images\/VC14_thumbnail_b0dd945e-fa56-425e-a90d-e9a3e4b6cbff.jpg",
+        "video_url": "{{ product.metafields.custom.youtube.value }}",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d07de62e-e9f8-4439-8fb2-0d03abd21571": {
+      "type": "multicolumn",
+      "blocks": {
+        "522f87bf-8493-4da2-b043-6261692ba9fe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VC14_Motor_3D_small_4bc3e05e-2033-4eb6-a321-fda533c9b0fb.gif",
+            "title": "Powerful Suction with Energy-Efficient Design.",
+            "text": "<p>The Synchronized Digital Motor’s advanced technology helps optimize run time and combined with our innovative design helps generate Max Suction Power up to 220 Air Watts.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "877deb02-da83-4cc8-b9b4-db9bb3884cae": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VC14_Filter_3D_small_1bb08fc2-81b9-4dfd-a5c3-40190523027f.gif",
+            "title": "Dual Pro High Efficiency Filter System",
+            "text": "<p>Provides up to 99.9% dust and<br\/>air separation (up to 0.3μm dust removed). Includes EZ-CLEAN inlet filter to capturedirt and maintenance-free outlet filter to captureallergens.<br\/><br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5b2de7e8efd9714bfad4e01b7432e579.png",
+            "title": "Ergonomic",
+            "text": "<p>Ergonomic Wellness Design to<br\/>let your wrist stretch naturally for ease of use<br\/><br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EZ_disposal.jpg",
+            "title": "EZ-ONE Press Disposal",
+            "text": "<p>For Fast-&-Easy emptying dust bin<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BD-_0077_a9af10a3-77d5-401f-af86-0976192311ff.png",
+            "title": " Easy One-Touch Control",
+            "text": "<p>Easily control the speed andpower with a touch of the hand using LED<br\/>Display with advanced technology helps optimizesuction<br\/>power to achieve efficient & convenient cleaning when in auto mode. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b663fed6-dd94-439d-974b-b908ad3287b9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VC14_Hardfloor_Nozzle_3D_small_bf2c70eb-fc39-4a0a-b9fe-1f7c19ae38bd.gif",
+            "title": "Hi-Performance Motorized \/ ElectricTools",
+            "text": "<p>Innovative<strong> Anti-Tangle Design, <\/strong>making vacuuming a little more enjoyable.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "86ffed9c-a2c6-4374-8e99-a51509be5415": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/clearthefilter_16cf7abf-a8b6-4050-9515-07e06d9c67c6.png",
+            "title": "EZ-Clean",
+            "text": "<p><strong>Easily Maintain with Water-Friendly Filters<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "522f87bf-8493-4da2-b043-6261692ba9fe",
+        "877deb02-da83-4cc8-b9b4-db9bb3884cae",
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-1",
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-2",
+        "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-0",
+        "b663fed6-dd94-439d-974b-b908ad3287b9",
+        "86ffed9c-a2c6-4374-8e99-a51509be5415"
+      ],
+      "settings": {
+        "title": "Key Feature",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 36
+      }
+    },
+    "eeb9dddb-133c-4863-83e6-6c292d2d40d3": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LED_nozzle_with_carpet_roller.png",
+            "title": "Motorized Multi-Surface Soft Roller",
+            "text": "<p>For Hard Floorwith an <strong>Innovative Tangle-Resistant Design<\/strong>,<strong>Natural Bright White LEDLight <\/strong>for better clarity<strong>, <\/strong>making vacuuming a littlemore enjoyable<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/no_LED_nozzle_with_soft_roller.png",
+            "title": "Motorized Multi-Surface with Softer Carpet Friendly Bristles",
+            "text": "<p>Composite Floor Nozzle with an <strong>InnovativeTangle-Resistant<br\/>Design<\/strong>, making vacuuming a little more enjoyable<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/motorized_multi_surface_brush.png",
+            "title": "Mini-Electric Mattress",
+            "text": "<p>For \/ Sofa \/ Stairs with Softer Friendly<br\/>Bristles \/ Composite Brush<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-0",
+        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-1",
+        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-2"
+      ],
+      "settings": {
+        "title": "Hi-Performance Motorized  Tools",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "3b995f87-544a-4a04-951a-ebbcf9ffa94e": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16560276144356__3b995f87-544a-4a04-951a-ebbcf9ffa94e-1670574871995f9045-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VC14_feature_12122022-01.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16560276144356__3b995f87-544a-4a04-951a-ebbcf9ffa94e-1670574871995f9045-0"
+      ],
+      "settings": {
+        "title": "Feature Highlights",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "473c6e2e-5d90-488c-8e56-8d8a46a03757": {
+      "type": "multi_accessories",
+      "blocks": {
+        "template--16642955608292__473c6e2e-5d90-488c-8e56-8d8a46a03757-16710751757c2675d1-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VC14Body.png",
+            "title": "",
+            "text": "<p><strong>VC14 Handheld Body <\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "30322f2c-79c5-4a4f-af15-e7aece698135": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tube.png",
+            "title": "",
+            "text": "<p><strong>Aluminum Extension Tube<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d73bdf2d-33a3-4b10-bcab-14142fae4680": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LED_nozzle_with_carpet_roller_44ff5f8f-e809-4599-8629-66e153af54a5.png",
+            "title": "",
+            "text": "<p><strong>Multi-Surface Hard Floor Soft Roller, Natural Brite-White LED Light<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4d07c573-1184-4d01-9727-58959557cb16": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/no_LED_nozzle_with_soft_roller_25b73bf8-06a6-44e8-a7fc-422dfcc9c5e0.png",
+            "title": "",
+            "text": "<p><strong>Motorized Multi-Surface Carpet<br\/>Friendly Softer Bristles\/Composite Strips Roller<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/motorized_multi_surface_brush_de05c190-128e-43e8-a0b0-c094c29e88a0.png",
+            "title": "",
+            "text": "<p><strong>Mini Electric Mattress \/ Sofa \/ Stairs<br\/>Cleaner Brush<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "78bea8d2-4683-465b-86ee-1d876ac86b21": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2in1_sofa_brush.png",
+            "title": "",
+            "text": "<p><strong>Deluxe 2-in-1 Sofa Brush<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0d0d399f-9604-41c9-9e64-8b5e9aea28e6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2in1_crevice_tool.png",
+            "title": "",
+            "text": "<p><strong>Deluxe 2-in-1 Crevice Tool<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/soft_hairbrush.png",
+            "title": "",
+            "text": "<p><strong>Deluxe Soft Hairbrush<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b1788ba2-6401-4f05-9e9d-048b4ae162cc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pet_hair_removal_brush.png",
+            "title": "",
+            "text": "<p><strong>Deluxe Pet Hair Removal Brush<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "c7b163bb-a736-4dad-8d1f-ecf4b4685200": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/flexible_hose.png",
+            "title": "",
+            "text": "<p><strong>Flexible\/Stretch Hose<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3688361a-78f2-4280-8fd5-be95c76816c4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bendable_connector.png",
+            "title": "",
+            "text": "<p><strong>Bendable Connector<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "df5cf7fd-7e5f-4e11-97bc-d1bb650f49d6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/storage_bag.png",
+            "title": "",
+            "text": "<p><strong>Accessory Storage Bag<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "7d6eb843-1c15-472c-bfca-979da3ee37c9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/short_cleaning_brush_with_cutter.png",
+            "title": "",
+            "text": "<p><strong>Shorter Cleaning Brush with Cutter <\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "57b85f57-5612-4499-8744-d737abe6d71d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/long_cleaning_brush.png",
+            "title": "",
+            "text": "<p><strong>Longer Cleaning Brush with Bristles<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "3bd6040e-b0e4-4146-bf81-2b7f71b6e215": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wall_dock.png",
+            "title": "",
+            "text": "<p><strong>Wall Mount Docking Station<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "04d77fb4-ffda-4194-a856-b789a32f5bed": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VC14Batterypack.png",
+            "title": "",
+            "text": "<p><strong>CLICK-IN Hi-Capacity Lion-Ion Battery Pack<br\/><\/strong><br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "52bdbac5-8011-4c74-b97f-01fcf40ea560": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VC14charger.png",
+            "title": "",
+            "text": "<p><strong>Premium Fast Charger<\/strong><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16642955608292__473c6e2e-5d90-488c-8e56-8d8a46a03757-16710751757c2675d1-0",
+        "30322f2c-79c5-4a4f-af15-e7aece698135",
+        "d73bdf2d-33a3-4b10-bcab-14142fae4680",
+        "4d07c573-1184-4d01-9727-58959557cb16",
+        "6e3aa1f1-f561-4bb3-8b14-2cda62f257e3",
+        "78bea8d2-4683-465b-86ee-1d876ac86b21",
+        "0d0d399f-9604-41c9-9e64-8b5e9aea28e6",
+        "bdf5b48e-48c1-4c03-86a7-d5bf6e8b4778",
+        "b1788ba2-6401-4f05-9e9d-048b4ae162cc",
+        "c7b163bb-a736-4dad-8d1f-ecf4b4685200",
+        "3688361a-78f2-4280-8fd5-be95c76816c4",
+        "df5cf7fd-7e5f-4e11-97bc-d1bb650f49d6",
+        "7d6eb843-1c15-472c-bfca-979da3ee37c9",
+        "57b85f57-5612-4499-8744-d737abe6d71d",
+        "3bd6040e-b0e4-4146-bf81-2b7f71b6e215",
+        "04d77fb4-ffda-4194-a856-b789a32f5bed",
+        "52bdbac5-8011-4c74-b97f-01fcf40ea560"
+      ],
+      "settings": {
+        "title": "Accessories",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b4b82444-8e29-4d6b-b2c7-57612d67ba79": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Replaceable Battery Pack Type",
+            "icon": "none",
+            "row_content": "<p>28.8 V Easy Change – CLICK-IN Hi<br\/>Capacity Battery Pack<\/p>",
+            "page": ""
+          }
+        },
+        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Estimated Run Time",
+            "icon": "none",
+            "row_content": "<p>~70 min* on Eco Power<\/p>",
+            "page": ""
+          }
+        },
+        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Dust Box \/ Capacity \/ Filter",
+            "icon": "none",
+            "row_content": "<p>~ 580ml\/HEPA Filter<\/p>",
+            "page": ""
+          }
+        },
+        "76ac5f8c-ad4b-428d-857a-b7594aec3449": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Max Suction Power",
+            "icon": "none",
+            "row_content": "<p>Up to 220 AW*<\/p>",
+            "page": ""
+          }
+        },
+        "f78ca53c-49fa-4db8-b9cd-eb39220e5077": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Charge Time",
+            "icon": "none",
+            "row_content": "<p>~3.5 Hours<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-0",
+        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-1",
+        "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-2",
+        "76ac5f8c-ad4b-428d-857a-b7594aec3449",
+        "f78ca53c-49fa-4db8-b9cd-eb39220e5077"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Specifications",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16653705981278b04d": {
+      "type": "apps",
+      "blocks": {
+        "954ac3dd-9a1b-4522-a6f8-fe509bcf63e8": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "954ac3dd-9a1b-4522-a6f8-fe509bcf63e8"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-with-text",
+    "cef38528-4c2b-4665-b556-4e10b912efa3",
+    "416de713-6f6a-4b25-9004-8e37b4f4c849",
+    "8caf4f28-7549-41ab-acd1-d038e0939ede",
+    "d07de62e-e9f8-4439-8fb2-0d03abd21571",
+    "eeb9dddb-133c-4863-83e6-6c292d2d40d3",
+    "product-recommendations",
+    "3b995f87-544a-4a04-951a-ebbcf9ffa94e",
+    "473c6e2e-5d90-488c-8e56-8d8a46a03757",
+    "b4b82444-8e29-4d6b-b2c7-57612d67ba79",
+    "16653705981278b04d"
+  ]
+}
