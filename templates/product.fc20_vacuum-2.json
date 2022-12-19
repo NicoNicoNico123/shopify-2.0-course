@@ -293,9 +293,9 @@
         "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BD-_0077_a9af10a3-77d5-401f-af86-0976192311ff.png",
-            "title": " Easy One-Touch Control",
-            "text": "<p>Easily control the speed andpower with a touch of the hand using LED<br\/>Display with advanced technology helps optimizesuction<br\/>power to achieve efficient & convenient cleaning when in auto mode. <\/p>",
+            "image": "shopify:\/\/shop_images\/WetDryWaste.png",
+            "title": "Innovative Patent Separates Wet and Dry Waste, Revolutionizing Waste Management",
+            "text": "<p>A new patent has been granted for a design that separates wet and dry waste, streamlining waste management processes and improving efficiency. This innovative solution is expected to revolutionize the way we handle and dispose of waste.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -309,16 +309,6 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "86ffed9c-a2c6-4374-8e99-a51509be5415": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/clearthefilter_16cf7abf-a8b6-4050-9515-07e06d9c67c6.png",
-            "title": "EZ-Clean",
-            "text": "<p><strong>Easily Maintain with Water-Friendly Filters<\/strong><\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
@@ -327,8 +317,7 @@
         "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-1",
         "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-2",
         "template--16560298721508__d07de62e-e9f8-4439-8fb2-0d03abd21571-166537005171857af8-0",
-        "b663fed6-dd94-439d-974b-b908ad3287b9",
-        "86ffed9c-a2c6-4374-8e99-a51509be5415"
+        "b663fed6-dd94-439d-974b-b908ad3287b9"
       ],
       "settings": {
         "title": "Key Feature",
