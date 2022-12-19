@@ -531,9 +531,9 @@
         "template--16560276144356__b4b82444-8e29-4d6b-b2c7-57612d67ba79-16654653744b85b15c-2": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Dust Box \/ Capacity \/ Filter",
+            "heading": "Filter",
             "icon": "none",
-            "row_content": "<p>~ 580ml\/HEPA Filter<\/p>",
+            "row_content": "<p>Wet & Dry HEPA + Sponge<\/p>",
             "page": ""
           }
         },
