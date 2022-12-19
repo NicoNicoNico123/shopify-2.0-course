@@ -593,6 +593,28 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "4fa12abf-b1ce-471e-998a-851be4572175": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16647714996452__4fa12abf-b1ce-471e-998a-851be4572175-1671429038b3eefe6d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>*Run time and Air Watts (AW) may vary based on usage, power mode, floor type, dust levels and\/or attachments\/tools being used.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16647714996452__4fa12abf-b1ce-471e-998a-851be4572175-1671429038b3eefe6d-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
@@ -606,6 +628,7 @@
     "3b995f87-544a-4a04-951a-ebbcf9ffa94e",
     "473c6e2e-5d90-488c-8e56-8d8a46a03757",
     "b4b82444-8e29-4d6b-b2c7-57612d67ba79",
-    "16653705981278b04d"
+    "16653705981278b04d",
+    "4fa12abf-b1ce-471e-998a-851be4572175"
   ]
 }
