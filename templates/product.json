@@ -750,9 +750,9 @@
         "desktop_content_position": "left",
         "content_alignment": "left",
         "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "16653705981278b04d": {
