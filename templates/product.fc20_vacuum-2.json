@@ -515,7 +515,7 @@
           "settings": {
             "heading": "Replaceable Battery Pack Type",
             "icon": "none",
-            "row_content": "<p><strong>28.V \/ 3000<\/strong>mAh<br\/>Hi-Capacity Li-Ion Battery <\/p>",
+            "row_content": "<p><strong>28.V \/ 3000<\/strong>mAh Hi-Capacity Li-Ion Battery <\/p>",
             "page": ""
           }
         },
