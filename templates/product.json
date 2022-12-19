@@ -285,7 +285,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/EZ_disposal.jpg",
             "title": "EZ-ONE Press Disposal",
-            "text": "<p>For Fast-&-Easy emptying dust bin<\/p>",
+            "text": "<p>For Fast-&-Easy emptying dust bin.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -315,7 +315,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/clearthefilter_16cf7abf-a8b6-4050-9515-07e06d9c67c6.png",
             "title": "EZ-Clean",
-            "text": "<p><strong>Easily Maintain with Water-Friendly Filters<\/strong><\/p>",
+            "text": "<p><strong>Easily Maintain with Water-Friendly Filters.<\/strong><\/p>",
             "link_label": "",
             "link": ""
           }
