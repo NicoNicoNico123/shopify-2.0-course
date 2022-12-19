@@ -253,7 +253,7 @@
         "522f87bf-8493-4da2-b043-6261692ba9fe": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/VC14_Motor_3D_small_4bc3e05e-2033-4eb6-a321-fda533c9b0fb.gif",
+            "image": "shopify:\/\/shop_images\/gif1.gif",
             "title": "Achieve a flawless clean with our high suction and motorized Scrub Roller",
             "text": "<p>Experience a deep clean with our powerful 250W suction and 50W motorized Scrub Roller. Perfect for floor cleaning, this advanced technology will effortlessly remove dirt and grime, leaving your surfaces sparkling clean. Upgrade your cleaning routine with our FC20.<\/p>",
             "link_label": "",
@@ -344,62 +344,6 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 16,
-        "padding_bottom": 36
-      }
-    },
-    "eeb9dddb-133c-4863-83e6-6c292d2d40d3": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/LED_nozzle_with_carpet_roller.png",
-            "title": "Motorized Multi-Surface Soft Roller",
-            "text": "<p>For Hard Floorwith an <strong>Innovative Tangle-Resistant Design<\/strong>,<strong>Natural Bright White LEDLight <\/strong>for better clarity<strong>, <\/strong>making vacuuming a littlemore enjoyable<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/no_LED_nozzle_with_soft_roller.png",
-            "title": "Motorized Multi-Surface with Softer Carpet Friendly Bristles",
-            "text": "<p>Composite Floor Nozzle with an <strong>InnovativeTangle-Resistant<br\/>Design<\/strong>, making vacuuming a little more enjoyable<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/motorized_multi_surface_brush.png",
-            "title": "Mini-Electric Mattress",
-            "text": "<p>For \/ Sofa \/ Stairs with Softer Friendly<br\/>Bristles \/ Composite Brush<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-0",
-        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-1",
-        "template--16560276144356__eeb9dddb-133c-4863-83e6-6c292d2d40d3-1670822243d24ec589-2"
-      ],
-      "settings": {
-        "title": "Hi-Performance Motorized  Tools",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -757,7 +701,6 @@
     "416de713-6f6a-4b25-9004-8e37b4f4c849",
     "8caf4f28-7549-41ab-acd1-d038e0939ede",
     "d07de62e-e9f8-4439-8fb2-0d03abd21571",
-    "eeb9dddb-133c-4863-83e6-6c292d2d40d3",
     "product-recommendations",
     "3b995f87-544a-4a04-951a-ebbcf9ffa94e",
     "473c6e2e-5d90-488c-8e56-8d8a46a03757",
