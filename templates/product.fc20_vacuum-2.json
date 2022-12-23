@@ -551,7 +551,7 @@
           "settings": {
             "heading": "Charge Time",
             "icon": "none",
-            "row_content": "<p>~4H with premium DC34.2V\/1000mA Charger*<\/p>",
+            "row_content": "<p>4 Hours<\/p>",
             "page": ""
           }
         }
