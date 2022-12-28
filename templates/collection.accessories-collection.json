@@ -14,10 +14,10 @@
         "products_per_page": 16,
         "columns_desktop": 4,
         "image_ratio": "adapt",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
+        "show_rating": true,
+        "enable_quick_add": true,
         "enable_filtering": true,
         "filter_type": "horizontal",
         "enable_sorting": true,
@@ -25,65 +25,10 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "033680e7-6e07-498f-8a60-a65ed3c3303d": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16654601781476__033680e7-6e07-498f-8a60-a65ed3c3303d-1672199975ea0d96d9-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/VC14_acc5.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on <\/p>",
-            "link_label": "Deluxe Pet Hair Removal Brush",
-            "link": "shopify:\/\/products\/deluxe-pet-hair-removal-brush"
-          }
-        },
-        "template--16654601781476__033680e7-6e07-498f-8a60-a65ed3c3303d-1672199975ea0d96d9-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16654601781476__033680e7-6e07-498f-8a60-a65ed3c3303d-1672199975ea0d96d9-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16654601781476__033680e7-6e07-498f-8a60-a65ed3c3303d-1672199975ea0d96d9-0",
-        "template--16654601781476__033680e7-6e07-498f-8a60-a65ed3c3303d-1672199975ea0d96d9-1",
-        "template--16654601781476__033680e7-6e07-498f-8a60-a65ed3c3303d-1672199975ea0d96d9-2"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "banner",
-    "product-grid",
-    "033680e7-6e07-498f-8a60-a65ed3c3303d"
+    "product-grid"
   ]
 }
