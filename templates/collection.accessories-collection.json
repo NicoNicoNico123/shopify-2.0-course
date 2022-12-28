@@ -26,19 +26,20 @@
         "padding_bottom": 36
       }
     },
-    "2cb25e26-162e-4a99-ab69-72f95b526256": {
-      "type": "multi_accessories",
+    "033680e7-6e07-498f-8a60-a65ed3c3303d": {
+      "type": "multicolumn",
       "blocks": {
-        "template--16654601781476__2cb25e26-162e-4a99-ab69-72f95b526256-1672199975284aa4f3-0": {
+        "template--16654601781476__033680e7-6e07-498f-8a60-a65ed3c3303d-1672199975ea0d96d9-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/VC14_acc5.jpg",
             "title": "Column",
-            "text": "<p>jhmhjkhjk<\/p>",
+            "text": "<p>Pair text with an image to focus on <\/p>",
             "link_label": "Deluxe Pet Hair Removal Brush",
             "link": "shopify:\/\/products\/deluxe-pet-hair-removal-brush"
           }
         },
-        "template--16654601781476__2cb25e26-162e-4a99-ab69-72f95b526256-1672199975284aa4f3-1": {
+        "template--16654601781476__033680e7-6e07-498f-8a60-a65ed3c3303d-1672199975ea0d96d9-1": {
           "type": "column",
           "settings": {
             "title": "Column",
@@ -47,7 +48,7 @@
             "link": ""
           }
         },
-        "template--16654601781476__2cb25e26-162e-4a99-ab69-72f95b526256-1672199975284aa4f3-2": {
+        "template--16654601781476__033680e7-6e07-498f-8a60-a65ed3c3303d-1672199975ea0d96d9-2": {
           "type": "column",
           "settings": {
             "title": "Column",
@@ -58,18 +59,20 @@
         }
       },
       "block_order": [
-        "template--16654601781476__2cb25e26-162e-4a99-ab69-72f95b526256-1672199975284aa4f3-0",
-        "template--16654601781476__2cb25e26-162e-4a99-ab69-72f95b526256-1672199975284aa4f3-1",
-        "template--16654601781476__2cb25e26-162e-4a99-ab69-72f95b526256-1672199975284aa4f3-2"
+        "template--16654601781476__033680e7-6e07-498f-8a60-a65ed3c3303d-1672199975ea0d96d9-0",
+        "template--16654601781476__033680e7-6e07-498f-8a60-a65ed3c3303d-1672199975ea0d96d9-1",
+        "template--16654601781476__033680e7-6e07-498f-8a60-a65ed3c3303d-1672199975ea0d96d9-2"
       ],
       "settings": {
-        "title": "Multi_accessories",
+        "title": "Multicolumn",
         "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "square",
+        "image_width": "full",
+        "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -81,6 +84,6 @@
   "order": [
     "banner",
     "product-grid",
-    "2cb25e26-162e-4a99-ab69-72f95b526256"
+    "033680e7-6e07-498f-8a60-a65ed3c3303d"
   ]
 }
