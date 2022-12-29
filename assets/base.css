@@ -1367,6 +1367,7 @@ button.shopify-payment-button__button--unbranded {
   bottom: 0;
   left: 0;
   z-index: -1;
+  background-color: #137bc2
 }
 
 .button:after,
@@ -1381,6 +1382,7 @@ button.shopify-payment-button__button--unbranded {
   left: var(--buttons-border-width);
   z-index: 1;
   transition: box-shadow var(--duration-short) ease;
+  
   
 }
 
@@ -1678,7 +1680,7 @@ details[open] > .share-button__fallback {
 .customer select {
   -webkit-appearance: none;
   appearance: none;
-  background-color: rgb(var(--color-background));
+  background-color: #fff;
   color: rgb(var(--color-foreground));
   font-size: 1.6rem;
   width: 100%;
@@ -1835,7 +1837,7 @@ details[open] > .share-button__fallback {
   position: absolute;
   transition: top var(--duration-short) ease,
     font-size var(--duration-short) ease;
-  color: rgba(var(--color-foreground), 0.75);
+  color: #303030;
   letter-spacing: 0.1rem;
   line-height: 1.5;
 }
