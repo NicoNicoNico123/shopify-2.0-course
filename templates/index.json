@@ -62,7 +62,7 @@
         "cover_image": "shopify:\/\/shop_images\/VC14_thumbnail_b0dd945e-fa56-425e-a90d-e9a3e4b6cbff.jpg",
         "video_url": "39GJcEgvdus",
         "description": "",
-        "full_width": true,
+        "full_width": false,
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
@@ -182,60 +182,6 @@
         "padding_top": 28,
         "padding_bottom": 36
       }
-    },
-    "734af8ad-32b8-46e3-be9c-048411982abc": {
-      "type": "multicolumn_Accessories",
-      "blocks": {
-        "template--16654637924580__734af8ad-32b8-46e3-be9c-048411982abc-1672376902f884a1a9-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/VC14_acc5.jpg",
-            "title": "Detail cleaning kit",
-            "text": "<p>AAA<\/p>",
-            "link_label": "Buy Now",
-            "link": "shopify:\/\/products\/500ml-bottles-of-multi-surface-floor-cleaner"
-          }
-        },
-        "template--16654637924580__734af8ad-32b8-46e3-be9c-048411982abc-1672376902f884a1a9-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16654637924580__734af8ad-32b8-46e3-be9c-048411982abc-1672376902f884a1a9-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16654637924580__734af8ad-32b8-46e3-be9c-048411982abc-1672376902f884a1a9-0",
-        "template--16654637924580__734af8ad-32b8-46e3-be9c-048411982abc-1672376902f884a1a9-1",
-        "template--16654637924580__734af8ad-32b8-46e3-be9c-048411982abc-1672376902f884a1a9-2"
-      ],
-      "settings": {
-        "title": "Dyson accessory kits",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 32
-      }
     }
   },
   "order": [
@@ -243,7 +189,6 @@
     "video",
     "4c910115-e210-469d-acc6-78d2b21d6821",
     "91793dab-7ab4-42b7-8362-b11346a2b207",
-    "featured_collection",
-    "734af8ad-32b8-46e3-be9c-048411982abc"
+    "featured_collection"
   ]
 }
