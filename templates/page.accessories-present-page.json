@@ -43,20 +43,20 @@
         "padding_bottom": 36
       }
     },
-    "cc0c541d-d98b-4d4c-836b-e24962bfce11": {
-      "type": "multi_accessories",
+    "9dcd322c-8c11-4788-9ef9-e7c0d135fd45": {
+      "type": "multicolumn",
       "blocks": {
-        "template--16655657992420__cc0c541d-d98b-4d4c-836b-e24962bfce11-167236980125d1ed36-0": {
+        "template--16655657992420__9dcd322c-8c11-4788-9ef9-e7c0d135fd45-1672369800e57da387-0": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/VC14_acc5.jpg",
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "Buy Now",
+            "text": "<p>Pair text with an image to focus on <\/p>",
+            "link_label": "Buy Now!",
             "link": "shopify:\/\/products\/500ml-bottles-of-multi-surface-floor-cleaner"
           }
         },
-        "template--16655657992420__cc0c541d-d98b-4d4c-836b-e24962bfce11-167236980125d1ed36-1": {
+        "template--16655657992420__9dcd322c-8c11-4788-9ef9-e7c0d135fd45-1672369800e57da387-1": {
           "type": "column",
           "settings": {
             "title": "Column",
@@ -65,7 +65,7 @@
             "link": ""
           }
         },
-        "template--16655657992420__cc0c541d-d98b-4d4c-836b-e24962bfce11-167236980125d1ed36-2": {
+        "template--16655657992420__9dcd322c-8c11-4788-9ef9-e7c0d135fd45-1672369800e57da387-2": {
           "type": "column",
           "settings": {
             "title": "Column",
@@ -76,18 +76,20 @@
         }
       },
       "block_order": [
-        "template--16655657992420__cc0c541d-d98b-4d4c-836b-e24962bfce11-167236980125d1ed36-0",
-        "template--16655657992420__cc0c541d-d98b-4d4c-836b-e24962bfce11-167236980125d1ed36-1",
-        "template--16655657992420__cc0c541d-d98b-4d4c-836b-e24962bfce11-167236980125d1ed36-2"
+        "template--16655657992420__9dcd322c-8c11-4788-9ef9-e7c0d135fd45-1672369800e57da387-0",
+        "template--16655657992420__9dcd322c-8c11-4788-9ef9-e7c0d135fd45-1672369800e57da387-1",
+        "template--16655657992420__9dcd322c-8c11-4788-9ef9-e7c0d135fd45-1672369800e57da387-2"
       ],
       "settings": {
-        "title": "Multi_accessories",
+        "title": "Multicolumn",
         "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "square",
+        "image_width": "full",
+        "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -99,6 +101,6 @@
   "order": [
     "main",
     "4255cd8e-4a63-4428-9e99-8ecfdd7c2eb8",
-    "cc0c541d-d98b-4d4c-836b-e24962bfce11"
+    "9dcd322c-8c11-4788-9ef9-e7c0d135fd45"
   ]
 }
