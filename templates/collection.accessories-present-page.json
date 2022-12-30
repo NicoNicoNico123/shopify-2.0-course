@@ -64,8 +64,8 @@
             "image": "shopify:\/\/shop_images\/Deluxesofthairbrush.png",
             "title": "Deluxe Soft Hairbrush",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Buy Now",
+            "link": "shopify:\/\/products\/deluxe-2-in-1-sofa-brush"
           }
         },
         "template--16655657959652__a9b31a21-3667-4c5e-a0c4-b9f5a2e945b4-167237967144004fcf-2": {
@@ -74,8 +74,8 @@
             "image": "shopify:\/\/shop_images\/VC14_acc6.jpg",
             "title": "Deluxe 2-in-1 Crevice Tool",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Buy Now",
+            "link": "shopify:\/\/products\/deluxe-2-in-1-crevice-tool-1"
           }
         }
       },
