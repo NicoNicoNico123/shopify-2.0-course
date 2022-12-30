@@ -44,60 +44,17 @@
             "text": "<p>Honeywell vacuums are designed to help you clean your home more efficiently and effectively.<\/p>",
             "text_style": "subtitle"
           }
-        },
-        "template--16655657959652__66d17cf5-e107-4715-852b-a8c2d60ca513-16723885323b499f80-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "template--16655657959652__66d17cf5-e107-4715-852b-a8c2d60ca513-16723885323b499f80-0",
-        "template--16655657959652__66d17cf5-e107-4715-852b-a8c2d60ca513-16723885323b499f80-1",
-        "template--16655657959652__66d17cf5-e107-4715-852b-a8c2d60ca513-16723885323b499f80-2"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "de9acde2-6e27-4616-a2ff-0f970dd07260": {
-      "type": "image-with-text-accessories",
-      "blocks": {
-        "template--16655657959652__de9acde2-6e27-4616-a2ff-0f970dd07260-1672387165148b2f7d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Accessories for Honeywell vacuums",
-            "heading_size": "h1"
-          }
-        },
-        "template--16655657959652__de9acde2-6e27-4616-a2ff-0f970dd07260-1672387165148b2f7d-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Honeywell vacuums are designed to help you clean your home more efficiently and effectively.<\/p>",
-            "text_style": "subtitle"
-          }
-        }
-      },
-      "block_order": [
-        "template--16655657959652__de9acde2-6e27-4616-a2ff-0f970dd07260-1672387165148b2f7d-0",
-        "template--16655657959652__de9acde2-6e27-4616-a2ff-0f970dd07260-1672387165148b2f7d-1"
+        "template--16655657959652__66d17cf5-e107-4715-852b-a8c2d60ca513-16723885323b499f80-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Pet_hair_cleaning_dcd7665f-595f-46ce-98f2-80a1b3d590df.png",
         "height": "adapt",
         "desktop_image_width": "large",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -165,7 +122,6 @@
     "banner",
     "product-grid",
     "66d17cf5-e107-4715-852b-a8c2d60ca513",
-    "de9acde2-6e27-4616-a2ff-0f970dd07260",
     "a9b31a21-3667-4c5e-a0c4-b9f5a2e945b4"
   ]
 }
