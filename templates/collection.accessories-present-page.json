@@ -28,42 +28,34 @@
         "padding_bottom": 36
       }
     },
-    "54af7c52-a8ca-4f43-b427-2a0ab5eb674e": {
-      "type": "image-with-text",
+    "de9acde2-6e27-4616-a2ff-0f970dd07260": {
+      "type": "image-with-text-accessories",
       "blocks": {
-        "template--16655657959652__54af7c52-a8ca-4f43-b427-2a0ab5eb674e-16723797077d26cb96-0": {
+        "template--16655657959652__de9acde2-6e27-4616-a2ff-0f970dd07260-1672387165148b2f7d-0": {
           "type": "heading",
           "settings": {
             "heading": "Image with text",
             "heading_size": "h1"
           }
         },
-        "template--16655657959652__54af7c52-a8ca-4f43-b427-2a0ab5eb674e-16723797077d26cb96-1": {
+        "template--16655657959652__de9acde2-6e27-4616-a2ff-0f970dd07260-1672387165148b2f7d-1": {
           "type": "text",
           "settings": {
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
           }
-        },
-        "template--16655657959652__54af7c52-a8ca-4f43-b427-2a0ab5eb674e-16723797077d26cb96-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
-        "template--16655657959652__54af7c52-a8ca-4f43-b427-2a0ab5eb674e-16723797077d26cb96-0",
-        "template--16655657959652__54af7c52-a8ca-4f43-b427-2a0ab5eb674e-16723797077d26cb96-1",
-        "template--16655657959652__54af7c52-a8ca-4f43-b427-2a0ab5eb674e-16723797077d26cb96-2"
+        "template--16655657959652__de9acde2-6e27-4616-a2ff-0f970dd07260-1672387165148b2f7d-0",
+        "template--16655657959652__de9acde2-6e27-4616-a2ff-0f970dd07260-1672387165148b2f7d-1"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Pet_hair_cleaning.png",
         "height": "adapt",
-        "desktop_image_width": "large",
+        "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "middle",
+        "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -129,7 +121,7 @@
   "order": [
     "banner",
     "product-grid",
-    "54af7c52-a8ca-4f43-b427-2a0ab5eb674e",
+    "de9acde2-6e27-4616-a2ff-0f970dd07260",
     "a9b31a21-3667-4c5e-a0c4-b9f5a2e945b4"
   ]
 }
