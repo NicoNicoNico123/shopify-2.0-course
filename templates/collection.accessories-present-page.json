@@ -52,9 +52,9 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Pet_hair_cleaning_dcd7665f-595f-46ce-98f2-80a1b3d590df.png",
-        "height": "adapt",
+        "height": "small",
         "desktop_image_width": "large",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
