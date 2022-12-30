@@ -80,6 +80,7 @@
         "template--16655657959652__a9b31a21-3667-4c5e-a0c4-b9f5a2e945b4-167237967144004fcf-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Elbow_cleaning.jpg",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
@@ -89,6 +90,7 @@
         "template--16655657959652__a9b31a21-3667-4c5e-a0c4-b9f5a2e945b4-167237967144004fcf-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/VC14_acc6.jpg",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
