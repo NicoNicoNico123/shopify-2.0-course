@@ -28,10 +28,54 @@
         "padding_bottom": 36
       }
     },
-    "01bae571-c45a-4aee-ae65-f4962783c620": {
-      "type": "multi_accessories",
+    "54af7c52-a8ca-4f43-b427-2a0ab5eb674e": {
+      "type": "image-with-text",
       "blocks": {
-        "template--16655657959652__01bae571-c45a-4aee-ae65-f4962783c620-16723697045b5b0356-0": {
+        "template--16655657959652__54af7c52-a8ca-4f43-b427-2a0ab5eb674e-16723797077d26cb96-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--16655657959652__54af7c52-a8ca-4f43-b427-2a0ab5eb674e-16723797077d26cb96-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16655657959652__54af7c52-a8ca-4f43-b427-2a0ab5eb674e-16723797077d26cb96-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16655657959652__54af7c52-a8ca-4f43-b427-2a0ab5eb674e-16723797077d26cb96-0",
+        "template--16655657959652__54af7c52-a8ca-4f43-b427-2a0ab5eb674e-16723797077d26cb96-1",
+        "template--16655657959652__54af7c52-a8ca-4f43-b427-2a0ab5eb674e-16723797077d26cb96-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pet_hair_cleaning.png",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a9b31a21-3667-4c5e-a0c4-b9f5a2e945b4": {
+      "type": "multicolumn_Accessories",
+      "blocks": {
+        "template--16655657959652__a9b31a21-3667-4c5e-a0c4-b9f5a2e945b4-167237967144004fcf-0": {
           "type": "column",
           "settings": {
             "title": "Column",
@@ -40,7 +84,7 @@
             "link": ""
           }
         },
-        "template--16655657959652__01bae571-c45a-4aee-ae65-f4962783c620-16723697045b5b0356-1": {
+        "template--16655657959652__a9b31a21-3667-4c5e-a0c4-b9f5a2e945b4-167237967144004fcf-1": {
           "type": "column",
           "settings": {
             "title": "Column",
@@ -49,7 +93,7 @@
             "link": ""
           }
         },
-        "template--16655657959652__01bae571-c45a-4aee-ae65-f4962783c620-16723697045b5b0356-2": {
+        "template--16655657959652__a9b31a21-3667-4c5e-a0c4-b9f5a2e945b4-167237967144004fcf-2": {
           "type": "column",
           "settings": {
             "title": "Column",
@@ -60,18 +104,20 @@
         }
       },
       "block_order": [
-        "template--16655657959652__01bae571-c45a-4aee-ae65-f4962783c620-16723697045b5b0356-0",
-        "template--16655657959652__01bae571-c45a-4aee-ae65-f4962783c620-16723697045b5b0356-1",
-        "template--16655657959652__01bae571-c45a-4aee-ae65-f4962783c620-16723697045b5b0356-2"
+        "template--16655657959652__a9b31a21-3667-4c5e-a0c4-b9f5a2e945b4-167237967144004fcf-0",
+        "template--16655657959652__a9b31a21-3667-4c5e-a0c4-b9f5a2e945b4-167237967144004fcf-1",
+        "template--16655657959652__a9b31a21-3667-4c5e-a0c4-b9f5a2e945b4-167237967144004fcf-2"
       ],
       "settings": {
-        "title": "Multi_accessories",
+        "title": "Accessories",
         "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "square",
+        "image_width": "full",
+        "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -83,6 +129,7 @@
   "order": [
     "banner",
     "product-grid",
-    "01bae571-c45a-4aee-ae65-f4962783c620"
+    "54af7c52-a8ca-4f43-b427-2a0ab5eb674e",
+    "a9b31a21-3667-4c5e-a0c4-b9f5a2e945b4"
   ]
 }
