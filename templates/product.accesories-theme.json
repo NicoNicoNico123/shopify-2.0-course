@@ -148,6 +148,7 @@
         "template--16657217552612__3be0c58b-ac28-4b9f-929a-0e47a0961896-167271806247bb3515-1"
       ],
       "settings": {
+        "image": "{{ product.metafields.custom.accessories_photo.value }}",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
