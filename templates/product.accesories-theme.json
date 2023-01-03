@@ -141,19 +141,11 @@
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
           }
-        },
-        "template--16657217552612__3be0c58b-ac28-4b9f-929a-0e47a0961896-167271806247bb3515-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "template--16657217552612__3be0c58b-ac28-4b9f-929a-0e47a0961896-167271806247bb3515-0",
-        "template--16657217552612__3be0c58b-ac28-4b9f-929a-0e47a0961896-167271806247bb3515-1",
-        "template--16657217552612__3be0c58b-ac28-4b9f-929a-0e47a0961896-167271806247bb3515-2"
+        "template--16657217552612__3be0c58b-ac28-4b9f-929a-0e47a0961896-167271806247bb3515-1"
       ],
       "settings": {
         "height": "adapt",
