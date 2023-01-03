@@ -148,8 +148,8 @@
             "image": "shopify:\/\/shop_images\/FC20_filter.png",
             "title": "Column",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Buy Now",
+            "link": "shopify:\/\/products\/wet-dry-filters"
           }
         }
       },
