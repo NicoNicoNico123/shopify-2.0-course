@@ -131,14 +131,14 @@
         "template--16657217552612__3be0c58b-ac28-4b9f-929a-0e47a0961896-167271806247bb3515-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Image with text{{ product.metafields.custom.accessoreis_heading.value }}",
             "heading_size": "h1"
           }
         },
         "template--16657217552612__3be0c58b-ac28-4b9f-929a-0e47a0961896-167271806247bb3515-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.{{ product.metafields.custom.accessories_description | metafield_tag }}<\/p>",
             "text_style": "body"
           }
         }
