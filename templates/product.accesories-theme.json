@@ -54,15 +54,6 @@
             "show_dynamic_checkout": true
           }
         },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Special Feature",
-            "icon": "Feature",
-            "content": "<p><br\/><br\/><\/p>",
-            "page": ""
-          }
-        },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "disabled": true,
@@ -107,7 +98,6 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
         "378805d7-7f19-47fc-a45b-9b658bfc06f5",
