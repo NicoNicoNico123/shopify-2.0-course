@@ -7,19 +7,39 @@
         "padding_bottom": 36
       }
     },
-    "form": {
-      "type": "contact-form",
+    "e5c3f0cd-e876-497b-b0b6-d96e6ecf4961": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16659220988132__e5c3f0cd-e876-497b-b0b6-d96e6ecf4961-16732503804bab5bbb-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Contact Information<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--16659220988132__e5c3f0cd-e876-497b-b0b6-d96e6ecf4961-16732503804bab5bbb-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tel: 1-800-281-1378 (US & CANADA)<\/p><p>Email: info@ttl-corp.com<\/p><p><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16659220988132__e5c3f0cd-e876-497b-b0b6-d96e6ecf4961-16732503804bab5bbb-0",
+        "template--16659220988132__e5c3f0cd-e876-497b-b0b6-d96e6ecf4961-16732503804bab5bbb-1"
+      ],
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
-    "form"
+    "e5c3f0cd-e876-497b-b0b6-d96e6ecf4961"
   ]
 }
