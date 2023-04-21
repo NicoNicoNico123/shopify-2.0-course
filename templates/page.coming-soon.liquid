@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ shop.locale }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    {{ 'theme.scss.css' | asset_url | stylesheet_tag }}
+    {{ content_for_header }}
+  </head>
+  <body>
+    <div class="coming-soon-container">
+      <div class="coming-soon-content">
+        {{ page.content }}
+      </div>
+    </div>
+    {{ content_for_layout }}
+  </body>
+</html>
